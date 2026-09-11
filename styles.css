@@ -81,6 +81,7 @@ a { color: var(--navy-2); }
   box-shadow: 0 20px 45px rgba(23, 50, 77, .20);
   border: 6px solid rgba(255,255,255,.9);
 }
+
 .profile-mark {
   width: min(285px, 70vw);
   aspect-ratio: 1;
