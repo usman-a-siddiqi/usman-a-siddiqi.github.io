@@ -164,3 +164,8 @@ footer.footer { border-top: 1px solid var(--line); background: #fff; font-size: 
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; }
 }
+
+.pub-card .pub-meta em {
+  color: #52796F;
+  font-weight: 500;
+}
