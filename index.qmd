@@ -8,7 +8,7 @@ toc: false
 ::: {.hero-main}
 <div class="hero-kicker">Academic profile</div>
 
-# Muhammad Usman Amin Siddiqi, PhD
+# Muhammad Usman Amin Siddiqi
 
 <div class="hero-subtitle">Energy & Environmental Policy · Public Opinion · Behavioural Science</div>
 
