@@ -1,0 +1,127 @@
+---
+title: "Academic CV"
+subtitle: "Education, appointments and professional profile"
+---
+
+<div class="contact-strip">
+<strong>Muhammad Usman Amin Siddiqi, PhD</strong>
+<a href="mailto:muas21@bath.ac.uk">muas21@bath.ac.uk</a>
+<a href="https://orcid.org/0000-0003-0168-3029">ORCID</a>
+<a href="https://uk.linkedin.com/in/usmansiddiqi">LinkedIn</a>
+</div>
+
+## Current appointments
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">2024–present</div>
+<div class="timeline-title">Postdoctoral Research Associate</div>
+<div class="timeline-org">Department of Psychology, University of Bath, United Kingdom</div>
+
+Researcher on **Ocean-REFuel**, an EPSRC-funded programme on ocean renewable energy fuels and future hydrogen/ammonia systems.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2025–present</div>
+<div class="timeline-title">Honorary Research Fellow</div>
+<div class="timeline-org">Centre for Energy Policy, University of Strathclyde, Glasgow, United Kingdom</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2024–present</div>
+<div class="timeline-title">Courtesy Appointment</div>
+<div class="timeline-org">School of Public Policy, Oregon State University, USA</div>
+:::
+:::
+
+## Previous appointments
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">2023</div>
+<div class="timeline-title">Graduate Research Assistant</div>
+<div class="timeline-org">School of Public Policy, Oregon State University</div>
+
+Community dimensions of offshore wind energy development.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2017–2023</div>
+<div class="timeline-title">Instructor</div>
+<div class="timeline-org">School of Public Policy, Oregon State University</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2015–2017</div>
+<div class="timeline-title">Deputy Director</div>
+<div class="timeline-org">Centre of Excellence of China Studies, GC University Lahore</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2010–2017</div>
+<div class="timeline-title">Lecturer</div>
+<div class="timeline-org">Department of Political Science, GC University Lahore</div>
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2012</div>
+<div class="timeline-title">DAAD Research Fellow</div>
+<div class="timeline-org">Center for Development Research (ZEF), University of Bonn, Germany</div>
+:::
+:::
+
+## Education
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">2017–2023</div>
+<div class="timeline-title">PhD, Public Policy · Fulbright Scholar</div>
+<div class="timeline-org">Oregon State University, USA</div>
+
+Specialisation: **Environmental and Energy Policy** · CGPA 3.97
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2009–2011</div>
+<div class="timeline-title">MPhil, Political Science · 1st Position</div>
+<div class="timeline-org">GC University Lahore, Pakistan</div>
+
+CGPA 3.81
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2006–2008</div>
+<div class="timeline-title">MA, Political Science · Gold Medal & Academic Roll of Honor</div>
+<div class="timeline-org">GC University Lahore, Pakistan</div>
+
+GPA 3.75
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2004–2006</div>
+<div class="timeline-title">Bachelor's · Academic Certificate of Distinction</div>
+<div class="timeline-org">GC University Lahore, Pakistan</div>
+
+Political Science, Law and Mass Communications · 2nd position overall · GPA 3.65
+:::
+:::
+
+## Research expertise
+
+**Energy policy · Environmental policy · Public opinion · Climate behaviour · Public acceptance · Energy literacy · Extreme weather · Survey research · Quantitative analysis · Policy analysis**
+
+## Editorial service
+
+- Reviewing Editor, Springer Nature — Behavioural Sciences & Psychology (2026–present)
+- Associate Editor, *Journal of Political Science*, GC University Lahore (2009–2017)
+- Reviewer for journals across energy, environmental policy, sustainability, psychology, risk and public policy
+- Book proposal reviewer, Palgrave Macmillan
+
+## Professional associations
+
+Midwest Political Science Association · Western Political Science Association · Pacific Northwest Political Science Association · Pakistan Writers Guild
+
+::: {.callout-tip}
+## Add your downloadable PDF
+Place your current CV PDF in the `files/` folder and name it `Muhammad-Usman-Amin-Siddiqi-CV.pdf`. Then uncomment the CV download button described in `README.md`.
+:::

@@ -1,0 +1,84 @@
+---
+title: "Research"
+subtitle: "Public attitudes, behaviour and policy in climate and energy transitions"
+---
+
+My research sits at the intersection of **energy and environmental policy, public opinion, behavioural science and environmental psychology**. Across projects, I examine how people interpret policy problems, evaluate technologies and trade-offs, respond to environmental risks, and form preferences about collective responses.
+
+## Research themes
+
+::: {.card-grid}
+::: {.research-card}
+<div class="card-icon">A</div>
+
+### Public acceptance of emerging energy technologies
+
+I study how people evaluate low-carbon technologies and infrastructure, with particular attention to hydrogen, ammonia, offshore renewable energy, perceived risks and benefits, and the conditions under which public support changes.
+:::
+
+::: {.research-card}
+<div class="card-icon">B</div>
+
+### Climate risk, extreme weather & behaviour
+
+This work examines how direct experience, perceived harm, information seeking and social interaction shape preparedness, community helping, climate action and support for mitigation and adaptation policies.
+:::
+
+::: {.research-card}
+<div class="card-icon">C</div>
+
+### Energy policy, knowledge & social identity
+
+A third strand investigates the relationship between public knowledge, values, political and social identities, and preferences for energy, water and resource-management policies.
+:::
+:::
+
+## Ocean-REFuel {#ocean-refuel}
+
+**University of Bath · EPSRC-funded interdisciplinary programme**
+
+Ocean-REFuel investigates the potential to convert ocean renewable energy into liquid and gaseous zero-carbon fuels, including hydrogen and ammonia. Within this broader programme, my work focuses on the **social and behavioural dimensions of future energy systems**: public attitudes, acceptance, perceived risks and benefits, policy rationales, and the ways communities evaluate proposed energy developments.
+
+The project brings together researchers across engineering, psychology, policy and economics, with the University of Strathclyde as lead institution and collaborators including Bath, Cardiff, Imperial College London, Nottingham and Newcastle.
+
+[Ocean-REFuel project website](https://www.oceanrefuel.ac.uk/) · [University of Bath project page](https://researchportal.bath.ac.uk/en/projects/ocean-refuel-ocean-renewable-energy-fuels-2/)
+
+## Current research pipeline
+
+::: {.pub-list}
+::: {.pub-card}
+<div class="pub-title">Climate engagement varies with issue prioritisation</div>
+<div class="pub-meta">With Christina Demski and Wouter Poortinga · under review</div>
+
+Examines how competing issue priorities—including immigration, political and economic concerns—relate to gaps in climate engagement.
+:::
+
+::: {.pub-card}
+<div class="pub-title">Attribute priorities shape public support for hydrogen and ammonia energy projects</div>
+<div class="pub-meta">With Wouter Poortinga and Christina Demski · under review following revision</div>
+
+Investigates how project attributes and public priorities shape support for hydrogen- and ammonia-related energy development.
+:::
+
+::: {.pub-card}
+<div class="pub-title">Combining climate and economic rationales for hydrogen and ammonia energy policy</div>
+<div class="pub-meta">With Holly Peterson, Wouter Poortinga and Christina Demski · submitted</div>
+
+Tests how climate and economic arguments, separately and in combination, influence public support for energy policy.
+:::
+
+::: {.pub-card}
+<div class="pub-title">Statistics and stories of economic benefits in place-based Net Zero transitions</div>
+<div class="pub-meta">With Karen Turner · in preparation</div>
+
+Compares community and model-based assessments of economic benefits associated with energy development and place-based Net Zero transitions.
+:::
+:::
+
+## Earlier research
+
+My earlier work includes research on energy efficiency policy preferences, public energy literacy, water-policy knowledge, the social-identity foundations of energy and water policy preferences, and behavioural responses following the 2020 Oregon wildfires. Before specialising in environmental and energy policy, I also published on political trust, governance, public policy, policing and political development in Pakistan.
+
+## Methods
+
+My work draws primarily on **survey research, quantitative analysis, experimental and conjoint designs**, while my wider research background also includes qualitative and mixed-method approaches. I am particularly interested in translating rigorous social-science evidence into findings that are useful for policy design and public engagement.

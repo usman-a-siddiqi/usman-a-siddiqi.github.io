@@ -1,0 +1,126 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-main}
+<div class="hero-kicker">Academic profile</div>
+
+# Muhammad Usman Amin Siddiqi, PhD
+
+<div class="hero-subtitle">Energy & Environmental Policy · Public Opinion · Behavioural Science</div>
+
+<div class="hero-affiliation"><strong>Postdoctoral Research Associate</strong>, Department of Psychology, University of Bath<br><strong>Honorary Research Fellow</strong>, Centre for Energy Policy, University of Strathclyde</div>
+
+<div class="hero-copy">I am an interdisciplinary social scientist studying how people understand, evaluate and respond to climate change, energy transitions, environmental risks and emerging energy technologies. My work connects public opinion and behavioural science with questions of policy design, social acceptance and the distribution of costs and benefits.</div>
+
+<div class="hero-actions">
+<a class="btn-academic" href="research.html">Explore research</a>
+<a class="btn-academic-outline" href="publications.html">Publications</a>
+<a class="btn-academic-outline" href="cv.html">Academic CV</a>
+</div>
+:::
+
+::: {.hero-visual}
+<div class="profile-mark"><span>US</span></div>
+<div class="profile-note">Replace this monogram with your professional headshot when ready.</div>
+:::
+:::
+
+<div class="section-label">Research focus</div>
+
+## Social dimensions of climate and energy transitions
+
+<p class="lede">My research asks a practical question: what makes climate and energy transitions not only technically possible, but also publicly acceptable, behaviourally realistic and socially responsive?</p>
+
+::: {.card-grid}
+::: {.research-card}
+<div class="card-icon">01</div>
+
+### Energy transitions & public acceptance
+
+Public perceptions of hydrogen, ammonia, offshore renewable energy and the infrastructure needed for low-carbon energy systems.
+:::
+
+::: {.research-card}
+<div class="card-icon">02</div>
+
+### Climate risk & behaviour
+
+How extreme weather, perceived harm, information and social interaction shape preparedness, climate action and policy support.
+:::
+
+::: {.research-card}
+<div class="card-icon">03</div>
+
+### Public opinion & environmental policy
+
+How knowledge, values, political and social identities, and perceived costs and benefits influence policy preferences.
+:::
+:::
+
+::: {.band}
+<div class="section-label">Current project</div>
+
+## Ocean-REFuel: public acceptance of future energy systems
+
+At the University of Bath, I contribute to **Ocean-REFuel**, an EPSRC-funded interdisciplinary programme examining the conversion of ocean renewable energy into zero-carbon hydrogen and ammonia fuels. My work focuses on public attitudes, acceptance, policy support and the social dimensions of emerging energy systems.
+
+<a class="btn-academic" href="research.html#ocean-refuel">Current research →</a>
+:::
+
+<div class="section-label">Selected work</div>
+
+## Recent publications
+
+::: {.pub-list}
+::: {.pub-card}
+<div class="pub-meta">2026 · npj Climate Action</div>
+<div class="pub-title">Seeing is believing or believing is seeing: divergent pathways to climate action and policy support following extreme weather events</div>
+<div class="pub-meta">Siddiqi, M. U. A., Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H.</div>
+<div class="pub-links"><a href="https://doi.org/10.1038/s44168-026-00381-3">DOI ↗</a></div>
+:::
+
+::: {.pub-card}
+<div class="pub-meta">2026 · Energy Policy</div>
+<div class="pub-title">Community benefit agreement preferences for energy development offshore California, Oregon, and Washington: Insights from a choice-based conjoint experiment</div>
+<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., Siddiqi, M. U. A., & Boudet, H.</div>
+<div class="pub-links"><a href="https://doi.org/10.1016/j.enpol.2026.115275">DOI ↗</a></div>
+:::
+
+::: {.pub-card}
+<div class="pub-meta">2025 · Environmental Policy and Governance · first published online 2024</div>
+<div class="pub-title">Understanding public preferences for energy efficiency policies in building and agricultural sectors in the western US: Values, knowledge, and identity</div>
+<div class="pub-meta">Siddiqi, M. U. A., & Wolters, E. A.</div>
+<div class="pub-links"><a href="https://doi.org/10.1002/eet.2131">DOI ↗</a></div>
+:::
+:::
+
+<p><a class="btn-academic-outline" href="publications.html">View all publications →</a></p>
+
+<div class="section-label">Academic trajectory</div>
+
+## Research, teaching and international experience
+
+::: {.stat-grid}
+::: {.stat}
+<strong>Energy & climate</strong>
+<span>Current research focus</span>
+:::
+::: {.stat}
+<strong>UK · USA · Pakistan</strong>
+<span>Research and teaching experience</span>
+:::
+::: {.stat}
+<strong>PhD Public Policy</strong>
+<span>Environmental & energy policy specialisation</span>
+:::
+:::
+
+::: {.contact-strip}
+<strong>Interested in collaboration?</strong>
+<span>I welcome conversations about energy transitions, public acceptance, climate behaviour and environmental policy.</span>
+<a href="mailto:muas21@bath.ac.uk">muas21@bath.ac.uk</a>
+:::

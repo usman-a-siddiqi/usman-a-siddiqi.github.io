@@ -1,0 +1,57 @@
+---
+title: "Teaching & Engagement"
+subtitle: "Teaching, academic service and scholarly engagement"
+---
+
+Teaching and academic service have been a substantial part of my career across the United States and Pakistan. My teaching experience spans political science, public policy and research methodology, while my wider academic engagement includes editorial work, peer review, conference organisation and research collaboration.
+
+## Teaching experience
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">2017–2023</div>
+<div class="timeline-title">Instructor</div>
+<div class="timeline-org">School of Public Policy, Oregon State University, USA</div>
+
+Undergraduate teaching within political science and public policy, including **Middle East Politics**, alongside student mentoring and academic support during my doctoral training.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2010–2017</div>
+<div class="timeline-title">Lecturer</div>
+<div class="timeline-org">Department of Political Science, GC University Lahore, Pakistan</div>
+
+Teaching across political science and methodology, with experience supporting students in research design and qualitative social-science inquiry.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2009–2010</div>
+<div class="timeline-title">Research / Teaching Assistant</div>
+<div class="timeline-org">Department of Political Science, GC University Lahore, Pakistan</div>
+:::
+:::
+
+## Editorial & peer-review service
+
+I currently serve as a **Reviewing Editor in Behavioural Sciences & Psychology at Springer Nature**. Earlier editorial roles include Associate Editor of the *Journal of Political Science* at GC University Lahore and editorial work with periodical publications in Pakistan.
+
+I have reviewed research for journals and publishers across energy, environmental policy, sustainability, psychology, risk, public policy and social science, including titles from Nature Portfolio, Cell Press, Elsevier, Taylor & Francis and Springer Nature.
+
+Selected reviewing experience includes:
+
+**Nature Energy · Journal of Environmental Psychology · Energy Research & Social Science · Cell Reports Sustainability · Scientific Reports · Environmental Politics · Society & Natural Resources · Landscape and Urban Planning · International Journal of Disaster Risk Reduction · Environmental Management**
+
+## Academic leadership & service
+
+Before my doctoral studies, I served as **Deputy Director, Centre of Excellence of China Studies, GC University Lahore (2015–2017)** and contributed to departmental research coordination, degree-programme development, international academic collaboration, student societies and major conferences.
+
+I also held a **DAAD Research Fellowship** at the Center for Development Research (ZEF), University of Bonn, Germany, in 2012.
+
+## Selected presentations
+
+- **Western Political Science Association**, Vancouver, Canada (2024): climate policy support and individual action following extreme weather events.
+- **Pacific Northwest Political Science Association**, Vancouver, Canada (2023): public literacy in food, water and energy resources and implications for conservation policy.
+- **Midwest Political Science Association**, Chicago, USA (2023): mitigation and adaptation policy support and behavioural responses following extreme weather.
+- **Western Political Science Association**, San Francisco, USA (2023): group identities and preferences for energy and water resource-management policy.
+- **People & Nature, Oregon State University** (2022): group identities, value orientations and resource-policy preferences.
+- **School of Public Policy Brownbag Seminar, Oregon State University** (2022): social interaction, information seeking and disaster preparedness following the Oregon wildfires.

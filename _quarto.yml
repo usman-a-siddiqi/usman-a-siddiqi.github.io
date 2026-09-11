@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Muhammad Usman Amin Siddiqi"
+  site-url: "https://usman-a-siddiqi.github.io"
+  description: "Academic profile of Muhammad Usman Amin Siddiqi — energy and environmental policy, public opinion, behavioural science, and climate action."
+  favicon: assets/favicon.svg
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    background: light
+    foreground: dark
+    title: "M. Usman A. Siddiqi"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching & Engagement
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/usman-a-siddiqi
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://uk.linkedin.com/in/usmansiddiqi
+        aria-label: LinkedIn
+      - text: ORCID
+        href: https://orcid.org/0000-0003-0168-3029
+  page-footer:
+    left: "© 2026 Muhammad Usman Amin Siddiqi"
+    center: "Energy & Environmental Policy · Public Opinion · Behavioural Science"
+    right:
+      - text: "Email"
+        href: mailto:muas21@bath.ac.uk
+      - text: "GitHub"
+        href: https://github.com/usman-a-siddiqi
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    code-copy: true
+
+execute:
+  freeze: auto
