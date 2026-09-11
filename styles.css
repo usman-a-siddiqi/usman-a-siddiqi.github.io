@@ -71,7 +71,7 @@ a { color: var(--navy-2); }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.55rem; }
 
 .profile-mark {
-  width: min(340px, 78vw);
+  width: min(285px, 70vw);
   aspect-ratio: 1;
   margin: 0 auto;
   display: grid;
