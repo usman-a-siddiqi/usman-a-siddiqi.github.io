@@ -21,7 +21,7 @@ This page brings together my peer-reviewed research across energy and environmen
 :::
 :::
 
-## 2025 / first published online 2024
+## 2025 
 
 ::: {.pub-card}
 <div class="pub-title">Understanding public preferences for energy efficiency policies in building and agricultural sectors in the western US: Values, knowledge, and identity</div>
