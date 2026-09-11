@@ -24,8 +24,7 @@ toc: false
 :::
 
 ::: {.hero-visual}
-<div class="profile-mark"><span>US</span></div>
-<div class="profile-note">Replace this monogram with your professional headshot when ready.</div>
+<img src="assets/profile.jpg" class="Profile-Pic" alt="Muhammad Usman Amin Siddiqi">
 :::
 :::
 
