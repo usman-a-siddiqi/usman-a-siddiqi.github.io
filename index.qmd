@@ -24,7 +24,7 @@ toc: false
 :::
 
 ::: {.hero-visual}
-<img src="assets/Prolife-Pic.jpg" class="profile-photo" alt="Muhammad Usman Amin Siddiqi">
+<img src="assets/Profile-Pic.jpg" class="profile-photo" alt="Muhammad Usman Amin Siddiqi">
 :::
 :::
 
