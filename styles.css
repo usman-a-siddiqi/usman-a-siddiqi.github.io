@@ -70,6 +70,17 @@ a { color: var(--navy-2); }
 .hero-copy { font-size: 1.08rem; max-width: 720px; color: #364152; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.55rem; }
 
+.profile-photo {
+  width: min(285px, 70vw);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+  margin: 0 auto;
+  border-radius: 1rem;
+  box-shadow: 0 20px 45px rgba(23, 50, 77, .20);
+  border: 6px solid rgba(255,255,255,.9);
+}
 .profile-mark {
   width: min(285px, 70vw);
   aspect-ratio: 1;
