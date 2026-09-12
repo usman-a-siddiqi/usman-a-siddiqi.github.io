@@ -44,8 +44,8 @@ a { color: var(--navy-2); }
   grid-template-columns: 1.55fr .45fr;
   gap: 3.2rem;
   align-items: center;
-  min-height: 68vh;
-  padding: 4rem 0 3rem;
+  min-height: auto;
+  padding: 4rem 0 4rem;
 }
 .hero-kicker {
   color: var(--green);
