@@ -71,8 +71,8 @@ a { color: var(--navy-2); }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.55rem; }
 
 .profile-photo {
-  width: 210px;
-  height: 263px;
+  width: 240px;
+  height: 300px;
   object-fit: cover;
   object-position: center top;
   display: block;
