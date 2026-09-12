@@ -41,7 +41,7 @@ a { color: var(--navy-2); }
 
 .hero {
   display: grid;
-  grid-template-columns: 1.25fr .75fr;
+  grid-template-columns: 1.55fr .45fr;
   gap: 3.2rem;
   align-items: center;
   min-height: 68vh;
