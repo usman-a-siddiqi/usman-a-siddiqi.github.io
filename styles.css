@@ -1,52 +1,117 @@
 :root {
   --ink: #172033;
   --muted: #5d6878;
+
   --navy: #17324d;
   --navy-2: #234b70;
+
   --green: #52796f;
+  --green-dark: #006b5f;
   --green-soft: #eaf2ef;
+
   --blue-soft: #eef4f8;
+
   --paper: #ffffff;
   --line: #dfe6eb;
+
   --shadow: 0 10px 35px rgba(23, 50, 77, .08);
 }
 
-html { scroll-behavior: smooth; }
+
+/* =========================================================
+   GENERAL
+   ========================================================= */
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   color: var(--ink);
   background: #fbfcfd;
-  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.68;
 }
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
 
 .navbar {
   box-shadow: 0 1px 0 rgba(23, 50, 77, .08);
   backdrop-filter: blur(10px);
-  background: rgba(255,255,255,.94) !important;
+  background: rgba(255, 255, 255, .94) !important;
 }
-.navbar-brand { font-weight: 700; letter-spacing: -.02em; }
-.navbar-nav .nav-link { font-weight: 550; }
 
-#quarto-content { max-width: 1280px; margin: 0 auto; }
-main.content { max-width: 980px; }
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -.02em;
+}
 
-h1, h2, h3, h4 {
+.navbar-nav .nav-link {
+  font-weight: 550;
+}
+
+
+/* =========================================================
+   PAGE WIDTH
+   ========================================================= */
+
+#quarto-content {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+main.content {
+  max-width: 1120px;
+}
+
+
+/* =========================================================
+   TYPOGRAPHY
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4 {
   color: var(--navy);
   letter-spacing: -.025em;
   font-weight: 700;
 }
-h1 { font-size: clamp(2.25rem, 5vw, 4.3rem); line-height: 1.04; }
-h2 { margin-top: 2.2rem; }
-a { color: var(--navy-2); }
+
+h1 {
+  font-size: clamp(2.25rem, 5vw, 4.3rem);
+  line-height: 1.04;
+}
+
+h2 {
+  margin-top: 2.2rem;
+}
+
+a {
+  color: var(--navy-2);
+}
+
+
+/* =========================================================
+   HOMEPAGE HERO
+   ========================================================= */
 
 .hero {
   display: grid;
   grid-template-columns: 1.55fr .45fr;
-  gap: 3.2rem;
+  gap: 2.2rem;
   align-items: center;
+
+  /* Let content determine height */
   min-height: auto;
-  padding: 4rem 0 4rem;
+
+  padding: 4rem 0;
 }
+
 .hero-kicker {
   color: var(--green);
   text-transform: uppercase;
@@ -55,129 +120,450 @@ a { color: var(--navy-2); }
   font-weight: 800;
   margin-bottom: .9rem;
 }
-.hero h1 { margin: 0 0 .7rem; }
+
+.hero h1 {
+  margin: 0 0 .7rem;
+}
+
 .hero-subtitle {
   font-size: clamp(1.12rem, 2.2vw, 1.45rem);
   color: var(--navy-2);
   font-weight: 650;
   margin-bottom: 1.2rem;
 }
+
 .hero-affiliation {
   font-size: 1rem;
   color: var(--muted);
   margin-bottom: 1.25rem;
 }
-.hero-copy { font-size: 1.08rem; max-width: 720px; color: #364152; }
-.hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.55rem; }
+
+.hero-copy {
+  font-size: 1.08rem;
+  max-width: 780px;
+  color: #364152;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin-top: 1.55rem;
+}
+
+
+/* =========================================================
+   PROFILE PHOTO
+   ========================================================= */
 
 .profile-photo {
   width: 240px;
   height: 300px;
+
   object-fit: cover;
   object-position: center top;
+
   display: block;
   margin: 0 auto;
+
   border-radius: 1rem;
+  border: 5px solid rgba(255, 255, 255, .9);
+
   box-shadow: 0 16px 36px rgba(23, 50, 77, .18);
-  border: 5px solid rgba(255,255,255,.9);
 }
 
-.profile-mark {
-  width: min(285px, 70vw);
-  aspect-ratio: 1;
-  margin: 0 auto;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  background: radial-gradient(circle at 32% 28%, #6f9189 0 18%, #52796f 19% 42%, #234b70 43% 70%, #17324d 71% 100%);
-  color: white;
-  box-shadow: 0 24px 60px rgba(23, 50, 77, .23);
-  border: 10px solid rgba(255,255,255,.85);
-}
-.profile-mark span { font-size: clamp(3rem, 8vw, 6rem); font-weight: 750; letter-spacing: -.08em; }
-.profile-note { text-align: center; color: var(--muted); font-size: .83rem; margin-top: .9rem; }
 
-.btn-academic, .btn-academic-outline {
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.btn-academic,
+.btn-academic-outline {
   display: inline-block;
   text-decoration: none;
+
   padding: .72rem 1.02rem;
   border-radius: .55rem;
+
   font-weight: 700;
-  transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+
+  transition:
+    transform .15s ease,
+    box-shadow .15s ease,
+    background .15s ease;
 }
-.btn-academic { background: var(--navy); color: #fff !important; box-shadow: 0 8px 22px rgba(23,50,77,.17); }
-.btn-academic-outline { border: 1px solid #b9c7d2; color: var(--navy) !important; background: white; }
-.btn-academic:hover, .btn-academic-outline:hover { transform: translateY(-1px); box-shadow: 0 10px 24px rgba(23,50,77,.12); }
 
-.section-label { color: var(--green); text-transform: uppercase; letter-spacing: .12em; font-size: .77rem; font-weight: 800; }
-.lede { font-size: 1.16rem; color: #3e4b5d; max-width: 820px; }
+.btn-academic {
+  background: var(--navy);
+  color: #fff !important;
 
-.card-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; margin: 1.3rem 0 2.4rem; }
-.research-card, .pub-card, .timeline-card, .info-card {
+  box-shadow: 0 8px 22px rgba(23, 50, 77, .17);
+}
+
+.btn-academic-outline {
+  border: 1px solid #b9c7d2;
+  color: var(--navy) !important;
+  background: white;
+}
+
+.btn-academic:hover,
+.btn-academic-outline:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(23, 50, 77, .12);
+}
+
+
+/* =========================================================
+   SECTION HEADINGS
+   ========================================================= */
+
+.section-label {
+  color: var(--green);
+  text-transform: uppercase;
+
+  letter-spacing: .12em;
+  font-size: .77rem;
+  font-weight: 800;
+}
+
+.lede {
+  font-size: 1.16rem;
+  color: #3e4b5d;
+  max-width: 820px;
+}
+
+
+/* =========================================================
+   CARDS
+   ========================================================= */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  gap: 1rem;
+  margin: 1.3rem 0 2.4rem;
+}
+
+.research-card,
+.pub-card,
+.timeline-card,
+.info-card {
   background: var(--paper);
+
   border: 1px solid var(--line);
   border-radius: 1rem;
+
   padding: 1.35rem;
+
   box-shadow: var(--shadow);
 }
-.research-card h3, .pub-card h3, .info-card h3 { margin-top: .25rem; font-size: 1.18rem; }
-.card-icon {
-  width: 2.55rem; height: 2.55rem; border-radius: .75rem;
-  display: grid; place-items: center; background: var(--green-soft);
-  color: var(--green); font-weight: 800; margin-bottom: .9rem;
+
+.research-card h3,
+.pub-card h3,
+.info-card h3 {
+  margin-top: .25rem;
+  font-size: 1.18rem;
 }
+
+.card-icon {
+  width: 2.55rem;
+  height: 2.55rem;
+
+  border-radius: .75rem;
+
+  display: grid;
+  place-items: center;
+
+  background: var(--green-soft);
+  color: var(--green);
+
+  font-weight: 800;
+  margin-bottom: .9rem;
+}
+
+
+/* =========================================================
+   FULL-WIDTH COLOURED BAND
+   ========================================================= */
 
 .band {
   margin: 3rem calc(50% - 50vw);
-  padding: 3rem max(1.25rem, calc(50vw - 490px));
-  background: linear-gradient(120deg, var(--blue-soft), var(--green-soft));
+
+  padding:
+    3rem
+    max(1.25rem, calc(50vw - 560px));
+
+  background:
+    linear-gradient(
+      120deg,
+      var(--blue-soft),
+      var(--green-soft)
+    );
+
   border-top: 1px solid #dde8e4;
   border-bottom: 1px solid #dde8e4;
 }
-.band h2 { margin-top: 0; }
 
-.pub-list { display: grid; gap: 1rem; margin-top: 1.3rem; }
-.pub-card { border-left: 4px solid var(--green); }
-.pub-meta { color: var(--muted); font-size: .94rem; }
-.pub-title { font-weight: 750; color: var(--navy); font-size: 1.05rem; }
-.pub-links a { font-weight: 700; text-decoration: none; margin-right: .8rem; }
+.band h2 {
+  margin-top: 0;
+}
 
-.stat-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; margin: 1.5rem 0; }
-.stat { text-align: center; padding: 1.3rem; border-radius: .9rem; background: white; border: 1px solid var(--line); }
-.stat strong { display: block; color: var(--navy); font-size: 1.55rem; }
-.stat span { color: var(--muted); font-size: .92rem; }
 
-.timeline { border-left: 2px solid #ced9df; margin: 1.5rem 0 2.5rem .45rem; padding-left: 1.45rem; }
-.timeline-item { position: relative; margin: 0 0 1.6rem; }
-.timeline-item::before { content: ""; position: absolute; left: -1.86rem; top: .38rem; width: .75rem; height: .75rem; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 4px #eef5f2; }
-.timeline-date { color: var(--green); font-size: .82rem; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; }
-.timeline-title { font-weight: 750; color: var(--navy); }
-.timeline-org { color: var(--muted); }
+/* =========================================================
+   PUBLICATIONS
+   ========================================================= */
 
-.callout-note { border-left-color: var(--green) !important; }
+.pub-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.3rem;
+}
 
-.quarto-title-banner { background: linear-gradient(120deg, #f0f5f8, #edf5f1); }
-.quarto-title .title { color: var(--navy); }
-#TOC { font-size: .9rem; }
+.pub-card {
+  border-left: 4px solid var(--green);
+}
 
-.contact-strip { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; padding: 1.4rem; border-radius: 1rem; background: var(--navy); color: white; }
-.contact-strip a { color: white; font-weight: 700; }
 
-footer.footer { border-top: 1px solid var(--line); background: #fff; font-size: .88rem; color: var(--muted); }
+/* Authors, journal and publication metadata */
+
+.pub-meta {
+  color: var(--muted);
+  font-size: .94rem;
+}
+
+
+/* Your name in an author list */
+
+.pub-meta .my-name,
+.my-name {
+  color: #303b4a;
+  font-weight: 700;
+}
+
+
+/* Journal names */
+
+.pub-card .pub-meta em {
+  color: var(--green-dark);
+
+  font-style: italic;
+  font-weight: 600;
+}
+
+
+/* Featured / recent publication titles */
+
+.pub-title {
+  color: var(--navy);
+
+  font-size: 1.05rem;
+  font-weight: 750;
+}
+
+
+/* Earlier publication titles
+   
+   Use this class for the longer historical publication list.
+   Deliberately less bold than featured publications.
+*/
+
+.pub-title-earlier {
+  color: var(--navy);
+
+  font-size: 1.02rem;
+  font-weight: 550;
+}
+
+
+/* Publication links */
+
+.pub-links {
+  margin-top: .25rem;
+}
+
+.pub-links a {
+  font-weight: 700;
+  text-decoration: none;
+  margin-right: .8rem;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   STATISTICS / HIGHLIGHTS
+   ========================================================= */
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.stat {
+  text-align: center;
+
+  padding: 1.3rem;
+
+  border-radius: .9rem;
+  background: white;
+  border: 1px solid var(--line);
+}
+
+.stat strong {
+  display: block;
+
+  color: var(--navy);
+  font-size: 1.55rem;
+}
+
+.stat span {
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+
+/* =========================================================
+   TIMELINE
+   ========================================================= */
+
+.timeline {
+  border-left: 2px solid #ced9df;
+
+  margin: 1.5rem 0 2.5rem .45rem;
+  padding-left: 1.45rem;
+}
+
+.timeline-item {
+  position: relative;
+  margin: 0 0 1.6rem;
+}
+
+.timeline-item::before {
+  content: "";
+
+  position: absolute;
+  left: -1.86rem;
+  top: .38rem;
+
+  width: .75rem;
+  height: .75rem;
+
+  border-radius: 50%;
+
+  background: var(--green);
+
+  box-shadow:
+    0 0 0 4px #eef5f2;
+}
+
+.timeline-date {
+  color: var(--green);
+
+  font-size: .82rem;
+  font-weight: 800;
+
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}
+
+.timeline-title {
+  font-weight: 750;
+  color: var(--navy);
+}
+
+.timeline-org {
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   QUARTO COMPONENTS
+   ========================================================= */
+
+.callout-note {
+  border-left-color: var(--green) !important;
+}
+
+.quarto-title-banner {
+  background:
+    linear-gradient(
+      120deg,
+      #f0f5f8,
+      #edf5f1
+    );
+}
+
+.quarto-title .title {
+  color: var(--navy);
+}
+
+#TOC {
+  font-size: .9rem;
+}
+
+
+/* =========================================================
+   CONTACT STRIP
+   ========================================================= */
+
+.contact-strip {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: .8rem;
+  align-items: center;
+
+  padding: 1.4rem;
+
+  border-radius: 1rem;
+
+  background: var(--navy);
+  color: white;
+}
+
+.contact-strip a {
+  color: white;
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+footer.footer {
+  border-top: 1px solid var(--line);
+
+  background: #fff;
+
+  font-size: .88rem;
+  color: var(--muted);
+}
+
+
+/* =========================================================
+   TABLET / MOBILE
+   ========================================================= */
 
 @media (max-width: 900px) {
+
   .hero {
     grid-template-columns: 1fr;
+
     min-height: auto;
+
     padding-top: 2.5rem;
+    padding-bottom: 3rem;
   }
 
   .hero-visual {
     order: -1;
-  }
-
-  .profile-mark {
-    width: 210px;
   }
 
   .profile-photo {
@@ -193,5 +579,18 @@ footer.footer { border-top: 1px solid var(--line); background: #fff; font-size: 
   .band {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
+  }
+}
+
+
+/* =========================================================
+   ACCESSIBILITY
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  * {
+    scroll-behavior: auto !important;
+    transition: none !important;
   }
 }
