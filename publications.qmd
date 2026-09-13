@@ -3,94 +3,135 @@ title: "Publications"
 subtitle: "Peer-reviewed articles and selected research outputs"
 ---
 
-This page brings together my peer-reviewed research across energy and environmental policy, climate behaviour, public opinion and earlier work in political science and governance. DOI links are provided where available.
+Need access to the full text of a publication? Please feel free to contact me — I am happy to share a copy where possible.
 
 ## 2026
 
 ::: {.pub-list}
+
 ::: {.pub-card}
 <div class="pub-title">Seeing is believing or believing is seeing: divergent pathways to climate action and policy support following extreme weather events</div>
-<div class="pub-meta">Siddiqi, M. U. A., Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>npj Climate Action</em></div>
+
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>npj Climate Action</em></div>
+
 <div class="pub-links"><a href="https://doi.org/10.1038/s44168-026-00381-3">DOI ↗</a></div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Community benefit agreement preferences for energy development offshore California, Oregon, and Washington: Insights from a choice-based conjoint experiment</div>
-<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., Siddiqi, M. U. A., & Boudet, H. · <em>Energy Policy</em>, 215, 115275</div>
+
+<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., <span class="my-name">Siddiqi, M. U. A.</span>, & Boudet, H. · <em>Energy Policy</em>, 215, 115275</div>
+
 <div class="pub-links"><a href="https://doi.org/10.1016/j.enpol.2026.115275">DOI ↗</a></div>
 :::
+
 :::
 
-## 2025 
+
+## 2025
+
+::: {.pub-list}
 
 ::: {.pub-card}
 <div class="pub-title">Understanding public preferences for energy efficiency policies in building and agricultural sectors in the western US: Values, knowledge, and identity</div>
-<div class="pub-meta">Siddiqi, M. U. A., & Wolters, E. A. · <em>Environmental Policy and Governance</em>, 35, 228–245</div>
+
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A. · <em>Environmental Policy and Governance</em>, 35, 228–245</div>
+
 <div class="pub-links"><a href="https://doi.org/10.1002/eet.2131">DOI ↗</a></div>
 :::
+
+:::
+
 
 ## 2023
 
 ::: {.pub-list}
+
 ::: {.pub-card}
 <div class="pub-title">Disaster preparedness and community helping behaviour in the wake of the 2020 Oregon wildfires</div>
-<div class="pub-meta">Siddiqi, M. U. A., Giordono, L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>Disasters</em>, 47(4), 1138–1172</div>
+
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>Disasters</em>, 47(4), 1138–1172</div>
+
 <div class="pub-links"><a href="https://doi.org/10.1111/disa.12584">DOI ↗</a></div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Social group identities and public preferences for energy and water resource management policy approaches in the American West</div>
-<div class="pub-meta">Siddiqi, M. U. A., & Wolters, E. A. · <em>Society & Natural Resources</em>, 36(11), 1302–1323</div>
+
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A. · <em>Society & Natural Resources</em>, 36(11), 1302–1323</div>
+
 <div class="pub-links"><a href="https://doi.org/10.1080/08941920.2023.2220110">DOI ↗</a></div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Trial by fire: Support for mitigation and adaptation policy after the 2020 Oregon wildfires</div>
-<div class="pub-meta">Giordono, L., Siddiqi, M. U. A., Stelmach, G., Zanocco, C., Flora, J., & Boudet, H. · <em>Weather, Climate, and Society</em>, 15(3), 633–664</div>
+
+<div class="pub-meta">Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., Flora, J., & Boudet, H. · <em>Weather, Climate, and Society</em>, 15(3), 633–664</div>
+
 <div class="pub-links"><a href="https://doi.org/10.1175/WCAS-D-22-0075.1">DOI ↗</a></div>
 :::
+
 :::
+
 
 ## 2022
 
 ::: {.pub-list}
+
 ::: {.pub-card}
 <div class="pub-title">Situational and trans-situational correlates of public energy literacy: A Western U.S. case study</div>
-<div class="pub-meta">Siddiqi, M. U. A., Steel, B. S., & Wolters, E. A. · <em>Current Alternative Energy</em>, 5, 23–38</div>
+
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Steel, B. S., & Wolters, E. A. · <em>Current Alternative Energy</em>, 5, 23–38</div>
+
 <div class="pub-links"><a href="https://doi.org/10.2174/2405463105666220309142802">DOI ↗</a></div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Public water policy knowledge and policy preferences in the American West</div>
-<div class="pub-meta">Wolters, E. A., Steel, B. S., Siddiqi, M. U. A., & Symmes, M. · <em>International Journal of Environmental Research and Public Health</em>, 19(5), 2742</div>
+
+<div class="pub-meta">Wolters, E. A., Steel, B. S., <span class="my-name">Siddiqi, M. U. A.</span>, & Symmes, M. · <em>International Journal of Environmental Research and Public Health</em>, 19(5), 2742</div>
+
 <div class="pub-links"><a href="https://doi.org/10.3390/ijerph19052742">DOI ↗</a></div>
 :::
+
 :::
+
 
 ## Earlier peer-reviewed work
 
-- Siddiqi, M. U. A., & Butt, K. M. (2019). **Social structural and individual psychological determinants of political trust in Pakistan.** *Journal of Political Science*, XXXVII, 31–53.
-- Siddiqi, M. U. A. (2018). **Directional relationship among ontology, epistemology, and methodology in social science research: An illustration with the concept of power.** *Journal of Political Science*, XXXVI, 1–12.
-- Siddiqi, M. U. A., & Yaqoob, A. (2017). **Comprehending commercial sex: An exploration into governance models rooted in feminist discourses.** *Journal of Political Science*, XXXV, 2–18.
-- Siddiqi, M. U. A., & Khan, A. J. (2016). **Splicing theoretical and bureaucratic perspectives on public policy practices in Pakistan through iterative analysis.** *Journal of Political Science*, XXXIV, 49–71.
-- Siddiqi, M. U. A., & Mukhtar, M. (2015). **Perception of violence and victimization among Hazara community in Pakistan.** *Journal of Political Science*, XXXIII, 1–21.
-- Siddiqi, M. U. A., & Sajid, H. U. (2014). **Rise and rebirth of non-state actors in Swat: A phenomenological study of Shariah as a popular demand.** *Journal of Political Science*, XXXII, 45–66.
-- Siddiqi, M. U. A., Butt, K. M., & Afzaal, M. (2014). **Politicized policing in Pakistan: A constructivist study of problems of policing in Lahore.** *Journal of Political Science*, XXXII, 3–25.
-- Siddiqi, M. U. A., & Butt, K. M. (2013). **United States foreign policymaking: Institutions and the process.** *Journal of Political Science*, XXXI, 44–70.
-- Siddiqi, M. U. A. (2013). **US war on terror in Afghanistan: Evaluating the oil cliché.** *Journal of Political Science*, XXXI, 3–21.
-- Siddiqi, M. U. A. (2012). **Pak-US hookup in Afghanistan: A blame game to end the game?** *Journal of Political Science*, XXX, 41–68.
-- Siddiqi, M. U. A., & Butt, K. M. (2011). **The past is prologue: A thematic discourse on the history of US foreign policy (1776–1940s).** *Journal of Political Science*, XXIX, 3–32.
-- Khan, A. R., Butt, K. M., & Siddiqi, M. U. A. (2011). **Patronage of learning: Tracing the history of Madrassa education in Indian subcontinent under Muslim rule.** *Journal of Political Science*, XXIX, 45–68.
-- Siddiqi, M. U. A., & Kakar, R. (2010). **Baloch ethno-nationalism: The quest for understanding for a peaceful future.** *Journal of Political Science*, XXVIII, 55–102.
-- Siddiqi, M. U. A. (2009). **Pak-US relations: A roller coaster ride.** *Journal of Political Science*, XXVII, 27–52.
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2019). Social structural and individual psychological determinants of political trust in Pakistan. *Journal of Political Science*, XXXVII, 31–53.
+
+- <span class="my-name">Siddiqi, M. U. A.</span> (2018). Directional relationship among ontology, epistemology, and methodology in social science research: An illustration with the concept of power. *Journal of Political Science*, XXXVI, 1–12.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Yaqoob, A. (2017). Comprehending commercial sex: An exploration into governance models rooted in feminist discourses. *Journal of Political Science*, XXXV, 2–18.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Khan, A. J. (2016). Splicing theoretical and bureaucratic perspectives on public policy practices in Pakistan through iterative analysis. *Journal of Political Science*, XXXIV, 49–71.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Mukhtar, M. (2015). Perception of violence and victimization among Hazara community in Pakistan. *Journal of Political Science*, XXXIII, 1–21.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Sajid, H. U. (2014). Rise and rebirth of non-state actors in Swat: A phenomenological study of Shariah as a popular demand. *Journal of Political Science*, XXXII, 45–66.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, Butt, K. M., & Afzaal, M. (2014). Politicized policing in Pakistan: A constructivist study of problems of policing in Lahore. *Journal of Political Science*, XXXII, 3–25.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2013). United States foreign policymaking: Institutions and the process. *Journal of Political Science*, XXXI, 44–70.
+
+- <span class="my-name">Siddiqi, M. U. A.</span> (2013). US war on terror in Afghanistan: Evaluating the oil cliché. *Journal of Political Science*, XXXI, 3–21.
+
+- <span class="my-name">Siddiqi, M. U. A.</span> (2012). Pak-US hookup in Afghanistan: A blame game to end the game? *Journal of Political Science*, XXX, 41–68.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2011). The past is prologue: A thematic discourse on the history of US foreign policy (1776–1940s). *Journal of Political Science*, XXIX, 3–32.
+
+- Khan, A. R., Butt, K. M., & <span class="my-name">Siddiqi, M. U. A.</span> (2011). Patronage of learning: Tracing the history of Madrassa education in Indian subcontinent under Muslim rule. *Journal of Political Science*, XXIX, 45–68.
+
+- <span class="my-name">Siddiqi, M. U. A.</span>, & Kakar, R. (2010). Baloch ethno-nationalism: The quest for understanding for a peaceful future. *Journal of Political Science*, XXVIII, 55–102.
+
+- <span class="my-name">Siddiqi, M. U. A.</span> (2009). Pak-US relations: A roller coaster ride. *Journal of Political Science*, XXVII, 27–52.
+
 
 ## Book chapter, report & commentary
 
-- Siddiqi, M. U. A. (2015). **Examining women empowerment through representation in Pakistan: Who gets to represent whom?** In U. P. Sinha (Ed.), *Exploring the Engagement and Empowerment of Women: Multidisciplinary Perspectives* (pp. 35–58). Concept Publishing Company.
-- Boudet, H., Giordono, L., Siddiqi, M. U. A., Stelmach, G., Zanocco, C., & Flora, J. (2023). **Wildfires, behaviors, and policy support.** In E. Fleishman (Ed.), *Sixth Oregon Climate Assessment*. Oregon Climate Change Research Institute.
-- Boudet, H. S., Giordono, L., Siddiqi, M. U. A., Stelmach, G., Zanocco, C., & Flora, J. (2022). **How the 2020 wildfires shaped Oregonians' behavior and policy support.** *The Climate CIRCulator*.
+- <span class="my-name">Siddiqi, M. U. A.</span> (2015). Examining women empowerment through representation in Pakistan: Who gets to represent whom? In U. P. Sinha (Ed.), *Exploring the Engagement and Empowerment of Women: Multidisciplinary Perspectives* (pp. 35–58). Concept Publishing Company.
 
-::: {.callout-note}
-## Publication maintenance
-This first version is based on your current public academic pages and publisher records. Once the site is online, I recommend maintaining one master BibTeX file so future publications can be added once and displayed consistently.
-:::
+- Boudet, H., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2023). Wildfires, behaviors, and policy support. In E. Fleishman (Ed.), *Sixth Oregon Climate Assessment*. Oregon Climate Change Research Institute.
+
+- Boudet, H. S., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2022). How the 2020 wildfires shaped Oregonians' behavior and policy support. *The Climate CIRCulator*.
