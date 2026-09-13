@@ -27,13 +27,12 @@ website:
       - text: CV
         href: cv.qmd
     right:
-      - icon: github
-        href: https://github.com/usman-a-siddiqi
-        aria-label: GitHub
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?view_op=search_authors&mauthors=Muhammad+Usman+Amin+Siddiqi&hl=en&oi=ao
       - icon: linkedin
         href: https://uk.linkedin.com/in/usmansiddiqi
         aria-label: LinkedIn
-      - text: ORCID
+      - text: "ORCID"
         href: https://orcid.org/0000-0003-0168-3029
   page-footer:
     left: "© 2026 Muhammad Usman Amin Siddiqi"
@@ -41,8 +40,8 @@ website:
     right:
       - text: "Email"
         href: mailto:muas21@bath.ac.uk
-      - text: "GitHub"
-        href: https://github.com/usman-a-siddiqi
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?view_op=search_authors&mauthors=Muhammad+Usman+Amin+Siddiqi&hl=en&oi=ao
 
 format:
   html:
