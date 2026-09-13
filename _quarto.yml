@@ -27,7 +27,7 @@ website:
       - text: CV
         href: cv.qmd
     right:
-      - text: "Google Scholar"
+      - icon: mortarboard
         href: https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ
       - icon: linkedin
         href: https://uk.linkedin.com/in/usmansiddiqi
@@ -38,10 +38,12 @@ website:
     left: "© 2026 Muhammad Usman Amin Siddiqi"
     center: "Energy & Environmental Policy · Public Opinion · Behavioural Science"
     right:
-      - text: "Email"
+      - icon: envelope
         href: mailto:muas21@bath.ac.uk
-      - text: "Google Scholar"
+	aria-label: Email
+      - icon: mortarboard
         href: https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ
+	aria-label: Google Scholar
 
 format:
   html:
