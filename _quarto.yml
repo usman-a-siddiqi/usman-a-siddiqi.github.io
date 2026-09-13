@@ -28,7 +28,7 @@ website:
         href: cv.qmd
     right:
       - text: "Google Scholar"
-        href: https://scholar.google.com/citations?view_op=search_authors&mauthors=Muhammad+Usman+Amin+Siddiqi&hl=en&oi=ao
+        href: https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ
       - icon: linkedin
         href: https://uk.linkedin.com/in/usmansiddiqi
         aria-label: LinkedIn
@@ -41,7 +41,7 @@ website:
       - text: "Email"
         href: mailto:muas21@bath.ac.uk
       - text: "Google Scholar"
-        href: https://scholar.google.com/citations?view_op=search_authors&mauthors=Muhammad+Usman+Amin+Siddiqi&hl=en&oi=ao
+        href: https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ
 
 format:
   html:
