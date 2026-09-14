@@ -4,8 +4,8 @@ subtitle: "Education, appointments and professional profile"
 description: "Academic CV summary for Muhammad Usman Amin Siddiqi, including appointments, education, awards, projects, teaching, methods and professional service."
 ---
 
+```{=html}
 <div class="contact-strip cv-contact">
-
   <div class="cv-contact-primary">
     <strong>Muhammad Usman Amin Siddiqi, PhD</strong>
 
@@ -14,7 +14,8 @@ description: "Academic CV summary for Muhammad Usman Amin Siddiqi, including app
        aria-label="Email Muhammad Usman Amin Siddiqi"
        title="Email">
       <svg xmlns="http://www.w3.org/2000/svg"
-           width="18" height="18"
+           width="18"
+           height="18"
            viewBox="0 0 24 24"
            fill="none"
            stroke="currentColor"
@@ -33,10 +34,11 @@ description: "Academic CV summary for Muhammad Usman Amin Siddiqi, including app
     <a href="https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ">Google Scholar</a>
     <a href="https://orcid.org/0000-0003-0168-3029">ORCID</a>
     <a href="https://uk.linkedin.com/in/usmansiddiqi">LinkedIn</a>
-    <a class="cv-download" href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download PDF CV</a>
+    <a class="cv-download"
+       href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download PDF CV</a>
   </div>
-
 </div>
+```
 
 ## Research interests
 
