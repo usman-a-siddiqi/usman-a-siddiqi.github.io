@@ -5,8 +5,10 @@ project:
 website:
   title: "Muhammad Usman Amin Siddiqi"
   site-url: "https://usman-a-siddiqi.github.io"
-  description: "Academic profile of Muhammad Usman Amin Siddiqi — energy and environmental policy, public opinion, behavioural science, and climate action."
+  description: "Academic profile of Muhammad Usman Amin Siddiqi — energy and environmental policy, public opinion, behavioural science, climate risk, and low-carbon energy transitions."
   favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
 
   search:
     location: navbar
@@ -25,8 +27,10 @@ website:
         href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Teaching & Engagement
+      - text: Teaching & Mentoring
         href: teaching.qmd
+      - text: Talks
+        href: talks.qmd
       - text: CV
         href: cv.qmd
 

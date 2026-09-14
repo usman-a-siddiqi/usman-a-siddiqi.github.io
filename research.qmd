@@ -1,6 +1,7 @@
 ---
 title: "Research"
 subtitle: "Public attitudes, behaviour and policy in climate and energy transitions"
+description: "Research themes, projects and methods: public acceptance of emerging energy technologies, climate risk and behaviour, and environmental policy preferences."
 ---
 
 My research sits at the intersection of **energy and environmental policy, public opinion, behavioural science and environmental psychology**. Across projects, I examine how people interpret policy problems, evaluate technologies and trade-offs, respond to environmental risks, and form preferences about collective responses.
@@ -43,7 +44,46 @@ The project brings together researchers across engineering, psychology, policy a
 
 [Ocean-REFuel project website](https://www.oceanrefuel.ac.uk/) · [University of Bath project page](https://researchportal.bath.ac.uk/en/projects/ocean-refuel-ocean-renewable-energy-fuels-2/)
 
-## Current research pipeline
+## Selected research projects
+
+::: {.project-grid}
+::: {.project-card}
+<div class="project-meta">2024–present · EPSRC</div>
+### Ocean-REFuel — Ocean Renewable Energy Fuels
+**Role:** Postdoctoral Research Associate
+Public acceptance, attitudes and policy support around hydrogen, ammonia and future energy systems.
+:::
+
+::: {.project-card}
+<div class="project-meta">2023 · U.S. Department of Energy</div>
+### Community Dimensions of Offshore Wind Energy Development
+**Role:** Graduate Research Assistant
+Community attitudes, preferences and the social dimensions of offshore renewable energy development.
+:::
+
+::: {.project-card}
+<div class="project-meta">2021–2022 · CIRC / NOAA</div>
+### Oregonians’ Views on the 2020 Wildfires and Climate Change
+**Role:** PhD Researcher
+Extreme-weather experience, preparedness, community helping and support for climate mitigation and adaptation policy.
+:::
+
+::: {.project-card}
+<div class="project-meta">2018–2022 · OSU Policy Analysis Lab</div>
+### Food, Water & Energy Nexus Policy Survey
+**Role:** PhD Researcher
+Public knowledge, values and preferences for food, water and energy resource-management policies.
+:::
+
+::: {.project-card}
+<div class="project-meta">2012–2013 · DAAD</div>
+### After the flood is before the flood
+**Role:** Project Coordinator
+Vulnerabilities and coping capacities in flood-affected communities of Punjab.
+:::
+:::
+
+## Selected current research
 
 ::: {.pub-list}
 ::: {.pub-card}
@@ -73,12 +113,40 @@ Tests how climate and economic arguments, separately and in combination, influen
 
 Compares community and model-based assessments of economic benefits associated with energy development and place-based Net Zero transitions.
 :::
+
+::: {.pub-card}
+<div class="pub-title">Factors associated with public acceptance of hydrogen and ammonia in the United Kingdom</div>
+<div class="pub-meta">With Wouter Poortinga and Christina Demski · in preparation</div>
+
+Examines the individual and attitudinal factors associated with acceptance of hydrogen and ammonia as components of future energy systems.
 :::
-
-## Earlier research
-
-My earlier work includes research on energy efficiency policy preferences, public energy literacy, water-policy knowledge, the social-identity foundations of energy and water policy preferences, and behavioural responses following the 2020 Oregon wildfires. Before specialising in environmental and energy policy, I also published on political trust, governance, public policy, policing and political development in Pakistan.
+:::
 
 ## Methods
 
-My work draws primarily on **survey research, quantitative analysis, experimental and conjoint designs**, while my wider research background also includes qualitative and mixed-method approaches. I am particularly interested in translating rigorous social-science evidence into findings that are useful for policy design and public engagement.
+My research combines **quantitative, experimental, qualitative and mixed-method approaches**. I am especially interested in designs that can identify how people make trade-offs, how attitudes are structured, and how evidence can inform policy design and public engagement.
+
+::: {.method-grid}
+::: {.method-card}
+### Surveys & experiments
+Survey design and implementation · choice-based conjoint analysis · randomised controlled trials · programme evaluation.
+:::
+::: {.method-card}
+### Statistical modelling
+Structural equation modelling · path analysis · cluster and factor analysis · OLS, logistic, ordinal and multinomial regression · fixed-, random- and mixed-effects models.
+:::
+::: {.method-card}
+### Quasi-experimental methods
+Instrumental variables · regression discontinuity · difference-in-differences.
+:::
+::: {.method-card}
+### Qualitative & mixed methods
+Interviews · focus groups · deliberative workshops · ethnographic fieldwork · interpretative phenomenological analysis · discourse analysis · grounded theory · participatory rural appraisal.
+:::
+:::
+
+<div class="skill-strip"><strong>Software:</strong> Stata · SPSS · AMOS · Excel · R · Python · NVivo</div>
+
+## Earlier research
+
+My earlier work includes energy efficiency policy preferences, public energy literacy, water-policy knowledge, the social-identity foundations of energy and water policy preferences, and behavioural responses following the 2020 Oregon wildfires. Before specialising in environmental and energy policy, I also published on political trust, governance, public policy, policing and political development in Pakistan.

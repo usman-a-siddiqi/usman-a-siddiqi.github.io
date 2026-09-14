@@ -1,0 +1,95 @@
+---
+title: "Talks & Engagement"
+subtitle: "Invited talks, keynotes, panels and selected conference presentations"
+description: "Invited talks and selected presentations by Muhammad Usman Amin Siddiqi on energy transitions, hydrogen, ammonia, climate risk and public policy."
+---
+
+My recent public and academic engagement focuses on the social dimensions of emerging energy systems, particularly **hydrogen, ammonia, offshore renewables, climate risk and just transition**.
+
+## Invited talks, keynotes & panels
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">13 May 2026</div>
+<div class="timeline-title">Invited panellist · Shetland at the Frontline of the Energy and Net Zero Transition</div>
+<div class="timeline-org">25th All-Energy Exhibition and Conference · SEC Glasgow, UK</div>
+
+Panel discussion on regional experiences of the opportunities and pressures associated with energy and Net Zero transitions.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">11 May 2026</div>
+<div class="timeline-title">Invited talk · Governing the Green Transition</div>
+<div class="timeline-org">Centre for Energy Policy · University of Strathclyde, Glasgow, UK</div>
+
+Understanding public perceptions of emerging fuels and energy developments.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2–3 Sep 2025</div>
+<div class="timeline-title">Invited lectures · Marine Renewable Energy Academy Summer School</div>
+<div class="timeline-org">Burgas, Bulgaria</div>
+
+Lectures on offshore wind and marine renewables for sustainable hydrogen and ammonia production, and on public acceptance of hydrogen- and ammonia-based marine energy solutions.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">27 Apr 2025</div>
+<div class="timeline-title">Keynote · Breaking Silos at Home</div>
+<div class="timeline-org">2nd International Conference on Integration of Social Sciences · LEADS University, Lahore, Pakistan</div>
+
+A call for interdisciplinary research at home and abroad.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">19 Mar 2025</div>
+<div class="timeline-title">Invited panellist · Just Transition to a Hydrogen Economy</div>
+<div class="timeline-org">Hydrogen Innovation Supply Chain Conference · Teesside University, UK</div>
+:::
+:::
+
+## Selected recent presentations
+
+::: {.talk-grid}
+::: {.talk-card}
+<div class="talk-date">14 May 2026 · Glasgow</div>
+### Public preferences for hydrogen and ammonia energy projects in the UK
+Choice-based conjoint evidence presented at the 25th All-Energy Exhibition and Conference.
+:::
+
+::: {.talk-card}
+<div class="talk-date">30 Apr 2026 · Portsmouth</div>
+### Factors associated with public acceptance of hydrogen and ammonia in the UK
+Presented at the 1st Portsmouth Symposium on Public Acceptance of Hydrogen and Alternative Liquid Fuels.
+:::
+
+::: {.talk-card}
+<div class="talk-date">12–13 Nov 2025 · Cardiff</div>
+### Risk perceptions and social acceptance of hydrogen in the UK
+Society for Risk Analysis Europe, UK Chapter Annual Meeting.
+:::
+
+::: {.talk-card}
+<div class="talk-date">28–30 Mar 2024 · Vancouver</div>
+### Climate policy support and individual actions after extreme weather
+Western Political Science Association Annual Conference.
+:::
+
+::: {.talk-card}
+<div class="talk-date">10–11 Nov 2023 · Vancouver</div>
+### Public literacy in food, water and energy resources
+Pacific Northwest Political Science Association Annual Conference.
+:::
+
+::: {.talk-card}
+<div class="talk-date">13–16 Apr 2023 · Chicago</div>
+### Mitigation, adaptation and behavioural responses after extreme weather
+Midwest Political Science Association Annual Conference.
+:::
+:::
+
+## Earlier engagement
+
+Earlier presentations include work on energy and water policy preferences, disaster preparedness, China–Pakistan economic relations, women's political representation, governance and water/energy challenges. A complete chronological list is available in my downloadable CV.
+
+<p><a class="btn-academic" href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download full CV</a></p>

@@ -2,6 +2,7 @@
 title: ""
 page-layout: full
 toc: false
+description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scientist studying energy and environmental policy, public opinion, climate behaviour, and public acceptance of low-carbon energy technologies."
 ---
 
 ::: {.hero}
@@ -19,12 +20,18 @@ toc: false
 <div class="hero-actions">
 <a class="btn-academic" href="research.html">Explore research</a>
 <a class="btn-academic-outline" href="publications.html">Publications</a>
-<a class="btn-academic-outline" href="cv.html">Academic CV</a>
+<a class="btn-academic-outline" href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download CV</a>
+</div>
+
+<div class="profile-links" aria-label="Academic profiles">
+<a href="https://researchportal.bath.ac.uk/en/persons/muhammad-usman-siddiqi/">University of Bath</a>
+<a href="https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ">Google Scholar</a>
+<a href="https://orcid.org/0000-0003-0168-3029">ORCID</a>
 </div>
 :::
 
 ::: {.hero-visual}
-<img src="assets/Profile_Pic.jpg" class="profile-photo" alt="Muhammad Usman Amin Siddiqi">
+<img src="assets/Profile_Pic.jpg" class="profile-photo" alt="Portrait of Muhammad Usman Amin Siddiqi">
 :::
 :::
 
@@ -70,53 +77,96 @@ At the University of Bath, I contribute to **Ocean-REFuel**, an EPSRC-funded int
 <a class="btn-academic" href="research.html#ocean-refuel">Current research →</a>
 :::
 
+<div class="section-label">Selected recognition</div>
+
+## Awards and academic recognition
+
+::: {.recognition-grid}
+::: {.recognition-card}
+<div class="recognition-year">2024</div>
+<div class="recognition-title">Charles Redd Award</div>
+<div class="recognition-copy">Best Paper on the Politics of the American West.</div>
+:::
+::: {.recognition-card}
+<div class="recognition-year">2017–2023</div>
+<div class="recognition-title">Fulbright Scholar</div>
+<div class="recognition-copy">Fulbright Foreign Student Program Scholarship for doctoral study at Oregon State University.</div>
+:::
+::: {.recognition-card}
+<div class="recognition-year">2008</div>
+<div class="recognition-title">Gold Medal</div>
+<div class="recognition-copy">MA Political Science, with Academic Roll of Honor.</div>
+:::
+:::
+
 <div class="section-label">Selected work</div>
 
 ## Recent publications
 
 ::: {.pub-list}
 ::: {.pub-card}
-<div class="pub-meta">2026 · npj Climate Action</div>
+<div class="pub-meta">2026 · <em>npj Climate Action</em> · Open access</div>
 <div class="pub-title">Seeing is believing or believing is seeing: divergent pathways to climate action and policy support following extreme weather events</div>
-<div class="pub-meta">Siddiqi, M. U. A., Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H.</div>
-<div class="pub-links"><a href="https://doi.org/10.1038/s44168-026-00381-3">DOI ↗</a></div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H.</div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using survey data from wildfire-affected Oregon and hurricane-affected Alabama, this study separates the factors associated with climate-related actions from those associated with mitigation and adaptation policy support.</div></details>
+<a class="pub-btn" href="https://www.nature.com/articles/s44168-026-00381-3">Read article ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
-<div class="pub-meta">2026 · Energy Policy</div>
+<div class="pub-meta">2026 · <em>Energy Policy</em> · Open access</div>
 <div class="pub-title">Community benefit agreement preferences for energy development offshore California, Oregon, and Washington: Insights from a choice-based conjoint experiment</div>
-<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., Siddiqi, M. U. A., & Boudet, H.</div>
-<div class="pub-links"><a href="https://doi.org/10.1016/j.enpol.2026.115275">DOI ↗</a></div>
+<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., <span class="my-name">Siddiqi, M. U. A.</span>, & Boudet, H.</div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">A choice-based conjoint experiment with 2,999 West Coast respondents examines how benefit size, recipients and fund management shape preferences for community benefit agreements linked to offshore renewable energy.</div></details>
+<a class="pub-btn" href="https://www.sciencedirect.com/science/article/pii/S0301421526002090">Read article ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
-<div class="pub-meta">2025 · Environmental Policy and Governance · first published online 2024</div>
+<div class="pub-meta">2025 · <em>Environmental Policy and Governance</em> · Open access</div>
 <div class="pub-title">Understanding public preferences for energy efficiency policies in building and agricultural sectors in the western US: Values, knowledge, and identity</div>
-<div class="pub-meta">Siddiqi, M. U. A., & Wolters, E. A.</div>
-<div class="pub-links"><a href="https://doi.org/10.1002/eet.2131">DOI ↗</a></div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A.</div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using a four-state survey, this paper examines how ideology, environmental values, social identities and policy literacy are associated with support for energy-efficiency policies in buildings and agriculture.</div></details>
+<a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/full/10.1002/eet.2131">Read article ↗</a>
+</div>
 :::
 :::
 
 <p><a class="btn-academic-outline" href="publications.html">View all publications →</a></p>
 
-<div class="section-label">Academic trajectory</div>
+<div class="section-label">Academic profile</div>
 
 ## Research, teaching and international experience
 
 ::: {.stat-grid}
 ::: {.stat}
-<strong>Energy & climate</strong>
-<span>Current research focus</span>
+<strong>67 sections</strong>
+<span>University teaching across two universities</span>
+:::
+::: {.stat}
+<strong>39 students</strong>
+<span>Supervised across MPhil, MA and BA research projects</span>
 :::
 ::: {.stat}
 <strong>UK · USA · Pakistan</strong>
-<span>Research and teaching experience</span>
-:::
-::: {.stat}
-<strong>PhD Public Policy</strong>
-<span>Environmental & energy policy specialisation</span>
+<span>Research, teaching and academic leadership</span>
 :::
 :::
+
+<div class="section-label">Recent activity</div>
+
+## Talks and engagement
+
+::: {.activity-list}
+<div class="activity-item"><span class="activity-date">May 2026</span><span><strong>Invited talk</strong> — Governing the Green Transition, Centre for Energy Policy, University of Strathclyde.</span></div>
+<div class="activity-item"><span class="activity-date">May 2026</span><span><strong>Invited panellist</strong> — Shetland at the Frontline of the Energy and Net Zero Transition, All-Energy, Glasgow.</span></div>
+<div class="activity-item"><span class="activity-date">Apr 2026</span><span><strong>Research presentation</strong> — Public acceptance of hydrogen and alternative liquid fuels, Portsmouth.</span></div>
+:::
+
+<p><a class="btn-academic-outline" href="talks.html">View talks & presentations →</a></p>
 
 ::: {.contact-strip}
 <strong>Interested in collaboration?</strong>

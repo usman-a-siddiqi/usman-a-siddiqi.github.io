@@ -1,9 +1,10 @@
 ---
 title: "Publications"
 subtitle: "Peer-reviewed articles and selected research outputs"
+description: "Publications by Muhammad Usman Amin Siddiqi on climate action, energy policy, public acceptance, environmental behaviour and resource governance."
 ---
 
-Need access to the full text of a publication? Please feel free to contact me — I am happy to share a copy where possible.
+Use **About the paper** for a short, plain-language overview and **Read article** for the journal's article page. Where a separate manuscript or PDF route is useful, an additional PDF button is provided.
 
 ## 2026
 
@@ -11,22 +12,23 @@ Need access to the full text of a publication? Please feel free to contact me �
 
 ::: {.pub-card}
 <div class="pub-title">Seeing is believing or believing is seeing: divergent pathways to climate action and policy support following extreme weather events</div>
-
-<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>npj Climate Action</em></div>
-
-<div class="pub-links"><a href="https://doi.org/10.1038/s44168-026-00381-3">DOI ↗</a></div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>npj Climate Action</em>, 5, Article 72 · <span class="oa-badge">Open access</span></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using structural equation modelling with survey data from Oregon and Alabama, the study compares pathways from extreme-weather experiences and climate perceptions to individual action and support for mitigation and adaptation policy. Policy support is more closely tied to climate concern, while actions are more strongly associated with harm experiences and descriptive norms.</div></details>
+<a class="pub-btn" href="https://www.nature.com/articles/s44168-026-00381-3">Read article ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Community benefit agreement preferences for energy development offshore California, Oregon, and Washington: Insights from a choice-based conjoint experiment</div>
-
-<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., <span class="my-name">Siddiqi, M. U. A.</span>, & Boudet, H. · <em>Energy Policy</em>, 215, 115275</div>
-
-<div class="pub-links"><a href="https://doi.org/10.1016/j.enpol.2026.115275">DOI ↗</a></div>
+<div class="pub-meta">Taufiq, H. A., Stelmach, G., Rahman, U., <span class="my-name">Siddiqi, M. U. A.</span>, & Boudet, H. · <em>Energy Policy</em>, 215, 115275 · <span class="oa-badge">Open access</span></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">A choice-based conjoint experiment with 2,999 respondents in California, Oregon and Washington tests preferences for the size, recipients and management of community benefits associated with offshore renewable-energy development. Respondents generally preferred larger benefits, support for housing and community services, and nonprofit management.</div></details>
+<a class="pub-btn" href="https://www.sciencedirect.com/science/article/pii/S0301421526002090">Read article ↗</a>
+</div>
 :::
 
 :::
-
 
 ## 2025
 
@@ -34,14 +36,14 @@ Need access to the full text of a publication? Please feel free to contact me �
 
 ::: {.pub-card}
 <div class="pub-title">Understanding public preferences for energy efficiency policies in building and agricultural sectors in the western US: Values, knowledge, and identity</div>
-
-<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A. · <em>Environmental Policy and Governance</em>, 35, 228–245</div>
-
-<div class="pub-links"><a href="https://doi.org/10.1002/eet.2131">DOI ↗</a></div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A. · <em>Environmental Policy and Governance</em>, 35(2), 228–245 · <span class="oa-badge">Open access</span></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Based on a survey of 1,804 respondents across four western U.S. states, this paper examines support for energy-efficiency policies in buildings and agriculture. It looks beyond ideology to the roles of environmental values, social identities and policy literacy in shaping policy preferences.</div></details>
+<a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/full/10.1002/eet.2131">Read article ↗</a>
+</div>
 :::
 
 :::
-
 
 ## 2023
 
@@ -49,30 +51,34 @@ Need access to the full text of a publication? Please feel free to contact me �
 
 ::: {.pub-card}
 <div class="pub-title">Disaster preparedness and community helping behaviour in the wake of the 2020 Oregon wildfires</div>
-
 <div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>Disasters</em>, 47(4), 1138–1172</div>
-
-<div class="pub-links"><a href="https://doi.org/10.1111/disa.12584">DOI ↗</a></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using a survey administered after the 2020 Oregon wildfires, the study compares factors associated with household disaster preparedness and community helping. Greater harm, climate concern, information seeking, informal discussion and perceived preparedness among others were associated with stronger behavioural responses.</div></details>
+<a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/full/10.1111/disa.12584">Read article ↗</a>
+<a class="pub-btn pub-btn-secondary" href="https://researchportal.bath.ac.uk/files/385551266/Accepted_Version_for_upload_.pdf">Author PDF ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
-<div class="pub-title">Social group identities and public preferences for energy and water resource management policy approaches in the American West</div>
-
+<div class="pub-title">Group Identities, Value Orientations, and Public Preferences for Energy and Water Resource Management Policy Approaches in the American West</div>
 <div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, & Wolters, E. A. · <em>Society & Natural Resources</em>, 36(11), 1302–1323</div>
-
-<div class="pub-links"><a href="https://doi.org/10.1080/08941920.2023.2220110">DOI ↗</a></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">A survey of 1,804 western U.S. residents examines how social identities and value orientations relate to preferences for resource-development versus conservation approaches. Pro-environmental identities were associated with stronger support for conservation policies and lower support for supply-expansion approaches.</div></details>
+<a class="pub-btn" href="https://www.tandfonline.com/doi/full/10.1080/08941920.2023.2220110">Read article ↗</a>
+<a class="pub-btn pub-btn-secondary" href="https://www.tandfonline.com/doi/pdf/10.1080/08941920.2023.2220110?download=true">Publisher PDF ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Trial by fire: Support for mitigation and adaptation policy after the 2020 Oregon wildfires</div>
-
 <div class="pub-meta">Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., Flora, J., & Boudet, H. · <em>Weather, Climate, and Society</em>, 15(3), 633–664</div>
-
-<div class="pub-links"><a href="https://doi.org/10.1175/WCAS-D-22-0075.1">DOI ↗</a></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">This study uses a post-wildfire survey of Oregonians to compare support for climate mitigation and adaptation policies. It finds that political ideology is more strongly associated with mitigation support, while selected demographic characteristics play a larger role for some adaptation policies.</div></details>
+<a class="pub-btn" href="https://journals.ametsoc.org/view/journals/wcas/15/3/WCAS-D-22-0075.1.xml">Read article ↗</a>
+</div>
 :::
 
 :::
-
 
 ## 2022
 
@@ -80,58 +86,45 @@ Need access to the full text of a publication? Please feel free to contact me �
 
 ::: {.pub-card}
 <div class="pub-title">Situational and trans-situational correlates of public energy literacy: A Western U.S. case study</div>
-
-<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Steel, B. S., & Wolters, E. A. · <em>Current Alternative Energy</em>, 5, 23–38</div>
-
-<div class="pub-links"><a href="https://doi.org/10.2174/2405463105666220309142802">DOI ↗</a></div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Steel, B. S., & Wolters, E. A. · <em>Current Alternative Energy</em>, 5(1), 23–38</div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using survey data from California, Idaho, Oregon and Washington, the paper examines what predicts self-assessed and objective energy-policy knowledge and whether energy literacy is associated with support for public funding of renewable-energy research.</div></details>
+<a class="pub-btn" href="https://doi.org/10.2174/2405463105666220309142802">Read article ↗</a>
+<a class="pub-btn pub-btn-secondary" href="https://researchportal.bath.ac.uk/files/333940596/Accepted_Version_for_Archiving_2023.pdf">Author PDF ↗</a>
+</div>
 :::
 
 ::: {.pub-card}
 <div class="pub-title">Public water policy knowledge and policy preferences in the American West</div>
-
-<div class="pub-meta">Wolters, E. A., Steel, B. S., <span class="my-name">Siddiqi, M. U. A.</span>, & Symmes, M. · <em>International Journal of Environmental Research and Public Health</em>, 19(5), 2742</div>
-
-<div class="pub-links"><a href="https://doi.org/10.3390/ijerph19052742">DOI ↗</a></div>
+<div class="pub-meta">Wolters, E. A., Steel, B. S., <span class="my-name">Siddiqi, M. U. A.</span>, & Symmes, M. · <em>International Journal of Environmental Research and Public Health</em>, 19(5), 2742 · <span class="oa-badge">Open access</span></div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">This survey-based study examines public knowledge about water and agriculture across four western U.S. states and tests how knowledge relates to policy preferences. Greater knowledge was associated with stronger support for conservation-oriented approaches and less support for supply-side approaches.</div></details>
+<a class="pub-btn" href="https://www.mdpi.com/1660-4601/19/5/2742">Read article ↗</a>
+</div>
 :::
 
 :::
-
 
 ## Earlier peer-reviewed work
 
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2019). Social structural and individual psychological determinants of political trust in Pakistan. *Journal of Political Science*, XXXVII, 31–53.
-
 - <span class="my-name">Siddiqi, M. U. A.</span> (2018). Directional relationship among ontology, epistemology, and methodology in social science research: An illustration with the concept of power. *Journal of Political Science*, XXXVI, 1–12.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Yaqoob, A. (2017). Comprehending commercial sex: An exploration into governance models rooted in feminist discourses. *Journal of Political Science*, XXXV, 2–18.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Khan, A. J. (2016). Splicing theoretical and bureaucratic perspectives on public policy practices in Pakistan through iterative analysis. *Journal of Political Science*, XXXIV, 49–71.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Mukhtar, M. (2015). Perception of violence and victimization among Hazara community in Pakistan. *Journal of Political Science*, XXXIII, 1–21.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Sajid, H. U. (2014). Rise and rebirth of non-state actors in Swat: A phenomenological study of Shariah as a popular demand. *Journal of Political Science*, XXXII, 45–66.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, Butt, K. M., & Afzaal, M. (2014). Politicized policing in Pakistan: A constructivist study of problems of policing in Lahore. *Journal of Political Science*, XXXII, 3–25.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2013). United States foreign policymaking: Institutions and the process. *Journal of Political Science*, XXXI, 44–70.
-
 - <span class="my-name">Siddiqi, M. U. A.</span> (2013). US war on terror in Afghanistan: Evaluating the oil cliché. *Journal of Political Science*, XXXI, 3–21.
-
 - <span class="my-name">Siddiqi, M. U. A.</span> (2012). Pak-US hookup in Afghanistan: A blame game to end the game? *Journal of Political Science*, XXX, 41–68.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Butt, K. M. (2011). The past is prologue: A thematic discourse on the history of US foreign policy (1776–1940s). *Journal of Political Science*, XXIX, 3–32.
-
 - Khan, A. R., Butt, K. M., & <span class="my-name">Siddiqi, M. U. A.</span> (2011). Patronage of learning: Tracing the history of Madrassa education in Indian subcontinent under Muslim rule. *Journal of Political Science*, XXIX, 45–68.
-
 - <span class="my-name">Siddiqi, M. U. A.</span>, & Kakar, R. (2010). Baloch ethno-nationalism: The quest for understanding for a peaceful future. *Journal of Political Science*, XXVIII, 55–102.
-
 - <span class="my-name">Siddiqi, M. U. A.</span> (2009). Pak-US relations: A roller coaster ride. *Journal of Political Science*, XXVII, 27–52.
 
+## Reports, book chapter & commentary
 
-## Book chapter, report & commentary
-
+- <span class="my-name">Siddiqi, M. U. A.</span>, Poortinga, W., & Demski, C. (2026). “People.” In Norris, L., et al., *Propelling Growth: The role of green ammonia as a clean, sustainable maritime fuel*. MariNH₃. [View report](https://doi.org/10.17639/ZJCK-YSO7)
+- Boudet, H., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2023). Wildfires, behaviors, and policy support. In E. Fleishman (Ed.), *Sixth Oregon Climate Assessment*. Oregon Climate Change Research Institute. [View report](https://doi.org/10.5399/osu/1161)
 - <span class="my-name">Siddiqi, M. U. A.</span> (2015). Examining women empowerment through representation in Pakistan: Who gets to represent whom? In U. P. Sinha (Ed.), *Exploring the Engagement and Empowerment of Women: Multidisciplinary Perspectives* (pp. 35–58). Concept Publishing Company.
-
-- Boudet, H., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2023). Wildfires, behaviors, and policy support. In E. Fleishman (Ed.), *Sixth Oregon Climate Assessment*. Oregon Climate Change Research Institute.
-
 - Boudet, H. S., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2022). How the 2020 wildfires shaped Oregonians' behavior and policy support. *The Climate CIRCulator*.

@@ -1,37 +1,39 @@
 # Muhammad Usman Amin Siddiqi — Academic website
 
-A Quarto academic website prepared for deployment at:
+Quarto academic website for:
 
 https://usman-a-siddiqi.github.io
 
 ## Site structure
 
-- `index.qmd` — homepage
-- `research.qmd` — research themes and current work
-- `publications.qmd` — publication record
-- `teaching.qmd` — teaching, service and presentations
-- `cv.qmd` — web CV
+- `index.qmd` — homepage, research focus, recognition and selected work
+- `research.qmd` — research themes, projects, current research and methods
+- `publications.qmd` — publication record with paper summaries and journal/PDF links
+- `teaching.qmd` — teaching, mentoring and selected academic service
+- `talks.qmd` — invited talks, panels and selected presentations
+- `cv.qmd` — concise web CV
+- `files/Muhammad-Usman-Amin-Siddiqi-CV.pdf` — downloadable full academic CV
 - `styles.css` — visual design
-- `_quarto.yml` — navigation and site settings
-- `.github/workflows/publish.yml` — automatic GitHub Pages deployment
+- `_quarto.yml` — navigation, metadata and site settings
+- `.github/workflows/publish.yml` — GitHub Pages deployment
 
-## Before publishing
+## Publication cards
 
-1. Add a professional headshot if you want one. Put it at `assets/profile.jpg` and replace the monogram block in `index.qmd` with an image.
-2. Review wording, dates and publication details, especially works in progress.
-3. If you have a PDF CV, place it at `files/Muhammad-Usman-Amin-Siddiqi-CV.pdf`.
-4. Commit all files to the `main` branch of `usman-a-siddiqi/usman-a-siddiqi.github.io`.
-5. In GitHub: **Settings → Pages → Source → GitHub Actions**.
-6. The included workflow will build the Quarto site automatically.
+Recent publication cards use three possible actions:
 
-## Editing later
+- **About the paper** — expands a short plain-language overview in the card.
+- **Read article** — opens the journal article page.
+- **Author PDF / PDF** — shown when a separate manuscript or PDF route is useful.
 
-Most updates only require editing the `.qmd` files. For example, to add a publication, copy one publication card in `publications.qmd`, change the text and DOI, save, commit and push.
+When adding a new publication, copy a current card and update the title, citation, summary and links.
 
-## Optional PDF CV button
+## Updating the CV
 
-After adding the PDF, you can add this line to the homepage or CV page:
+Replace `files/Muhammad-Usman-Amin-Siddiqi-CV.pdf` with the newest PDF while keeping the same filename. The website links will continue to work automatically.
 
-```html
-<a class="btn-academic" href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download CV</a>
-```
+## Publishing
+
+1. Review wording, dates, links and works in progress.
+2. Commit the files to the `main` branch of `usman-a-siddiqi/usman-a-siddiqi.github.io`.
+3. In GitHub, set **Settings → Pages → Source → GitHub Actions** if not already configured.
+4. The included workflow builds and deploys the Quarto site.
