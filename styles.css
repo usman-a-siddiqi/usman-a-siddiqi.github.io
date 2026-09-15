@@ -202,15 +202,6 @@ h3 { line-height: 1.28; }
     background .15s ease, border-color .15s ease;
 }
 
-.pub-btn-inline {
-  min-height: 0;
-  padding: .18rem .5rem;
-  font-size: inherit;
-  line-height: 1.2;
-  vertical-align: middle;
-  margin-left: .35rem;
-}
-
 .btn-academic,
 .btn-academic-outline {
   padding: .72rem 1.02rem;
@@ -762,4 +753,19 @@ footer.footer {
 
 .email-icon:hover {
   opacity: 0.7;
+}
+
+
+
+
+
+/* Compact publication/report button for use within text */
+.pub-btn-inline {
+  min-height: 0;
+  padding: .15em .5em;
+  font-size: .9em;
+  line-height: 1.25;
+  vertical-align: middle;
+  margin-left: .3em;
+  white-space: nowrap;
 }
