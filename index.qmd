@@ -259,12 +259,12 @@ and
 
 <div class="section-label">Academic profile</div>
 
-## Research, teaching and international experience
+## Teaching, mentoring and international experience
 
 ::: {.stat-grid}
 ::: {.stat}
-<strong>67 sections</strong>
-<span>University teaching across two universities</span>
+<strong>23 Courses</strong>
+<span>Taught across 67 course sections</span>
 :::
 ::: {.stat}
 <strong>39 students</strong>
