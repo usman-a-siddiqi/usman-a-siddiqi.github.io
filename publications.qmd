@@ -68,13 +68,90 @@ We find broad public support for both policies, but the factors associated with 
 ::: {.pub-list}
 
 ::: {.pub-card}
-<div class="pub-title">Disaster preparedness and community helping behaviour in the wake of the 2020 Oregon wildfires</div>
-<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>Disasters</em>, 47(4), 1138–1172</div>
-<div class="pub-actions">
-<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">Using a survey administered after the 2020 Oregon wildfires, the study compares factors associated with household disaster preparedness and community helping. Greater harm, climate concern, information seeking, informal discussion and perceived preparedness among others were associated with stronger behavioural responses.</div></details>
-<a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/full/10.1111/disa.12584">Read article ↗</a>
-<a class="pub-btn pub-btn-secondary" href="https://researchportal.bath.ac.uk/files/385551266/Accepted_Version_for_upload_.pdf">Author PDF ↗</a>
+
+<div class="pub-title">
+Disaster preparedness and community helping behaviour in the wake of the 2020 Oregon wildfires
 </div>
+
+<div class="pub-meta">
+<span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>Disasters</em>, 47(4), 1138–1172
+</div>
+
+<div class="pub-actions">
+
+<details class="paper-details">
+<summary>About the paper</summary>
+<div class="paper-summary">
+Using a survey administered after the 2020 Oregon wildfires, the study compares factors associated with household disaster preparedness and community helping. Greater harm, climate concern, information seeking, informal discussion and perceived preparedness among others were associated with stronger behavioural responses.
+</div>
+</details>
+
+<a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/full/10.1111/disa.12584">
+Read article ↗
+</a>
+
+<a class="pub-btn pub-btn-secondary" href="https://researchportal.bath.ac.uk/files/385551266/Accepted_Version_for_upload_.pdf">
+Author PDF ↗
+</a>
+
+<details class="paper-details">
+<summary>Coverage &amp; commentary</summary>
+
+<div class="paper-summary media-coverage">
+
+<p>Selected coverage of the study included:</p>
+
+<div class="media-item">
+<strong>UN Office for Disaster Risk Reduction (PreventionWeb)</strong><br>
+<a href="https://www.preventionweb.net/news/personal-experience-wildfire-increases-engagement-disaster-preparedness-osu-study-finds">
+Personal experience with wildfire increases engagement in disaster preparedness ↗
+</a>
+</div>
+
+<div class="media-item">
+<strong>Oregon Today</strong><br>
+<a href="https://oregontoday.net/personal-experience-with-wildfire-increases-engagement-in-disaster-preparedness-osu-study-finds-july-14-2023/">
+Personal experience with wildfire increases engagement in disaster preparedness, OSU study finds ↗
+</a>
+</div>
+
+<div class="media-item">
+<strong>Phys.org</strong><br>
+<a href="https://phys.org/news/2023-07-personal-wildfire-engagement-disaster-preparedness.html">
+Personal experience with wildfire increases engagement in disaster preparedness ↗
+</a>
+</div>
+
+<div class="media-item">
+<strong>KLCC Public Radio</strong><br>
+<a href="https://www.klcc.org/disasters-accidents/2023-07-13/2020-wildfire-survivors-more-apt-to-prepare-support-emergency-response-to-future-fires">
+2020 wildfire survivors more apt to prepare, support emergency response to future fires ↗
+</a>
+</div>
+
+<div class="media-item">
+<strong>Farm Progress</strong><br>
+<a href="https://www.farmprogress.com/conservation-and-sustainability/experience-with-wildfire-fuels-preparedness">
+Experience with wildfire fuels preparedness ↗
+</a>
+</div>
+
+<div class="media-item">
+<strong>Oregon State University</strong><br>
+<a href="https://today.oregonstate.edu/news/personal-experience-wildfire-increases-engagement-disaster-preparedness-osu-study-finds">
+Personal experience with wildfire increases engagement in disaster preparedness, OSU study finds ↗
+</a>
+</div>
+
+<div class="media-more">
+Additional coverage appeared in KTVZ, Highway 58 Herald, Columbia Gorge News, Curry Coastal Pilot, McKenzie River Reflections, Mirage News, and The News Guard.
+</div>
+
+</div>
+</details>
+
+</div>
+
 :::
 
 ::: {.pub-card}
