@@ -142,7 +142,7 @@ We find broad public support for both policies, but the factors associated with 
 
 ## Reports, book chapter & commentary
 
-- <span class="my-name">Siddiqi, M. U. A.</span>, Poortinga, W., & Demski, C. (2026). “People.” In Norris, L., et al., *Propelling Growth: The role of green ammonia as a clean, sustainable maritime fuel*. MariNH₃. <a class="pub-btn pub-btn-inline" href="https://onlinelibrary.wiley.com/doi/full/10.1002/eet.2131">Read article ↗</a>
+- <span class="my-name">Siddiqi, M. U. A.</span>, Poortinga, W., & Demski, C. (2026). “People.” In Norris, L., et al., *Propelling Growth: The role of green ammonia as a clean, sustainable maritime fuel*. MariNH₃. <a class="pub-btn pub-btn-inline" href="https://doi.org/10.17639/ZJCK-YSO7">Read report ↗</a>
 - Boudet, H., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2023). Wildfires, behaviors, and policy support. In E. Fleishman (Ed.), *Sixth Oregon Climate Assessment*. Oregon Climate Change Research Institute. [View report](https://doi.org/10.5399/osu/1161)
 - <span class="my-name">Siddiqi, M. U. A.</span> (2015). Examining women empowerment through representation in Pakistan: Who gets to represent whom? In U. P. Sinha (Ed.), *Exploring the Engagement and Empowerment of Women: Multidisciplinary Perspectives* (pp. 35–58). Concept Publishing Company.
 - Boudet, H. S., Giordono, L., <span class="my-name">Siddiqi, M. U. A.</span>, Stelmach, G., Zanocco, C., & Flora, J. (2022). How the 2020 wildfires shaped Oregonians' behavior and policy support. *The Climate CIRCulator*.
