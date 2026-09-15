@@ -102,7 +102,7 @@ Author PDF ↗
 <p>Selected coverage of the study included:</p>
 
 <div class="media-item">
-<strong>UN Office for Disaster Risk Reduction (PreventionWeb)</strong><br>
+<strong>UN Office for Disaster Risk Reduction </strong><br>
 <a href="https://www.preventionweb.net/news/personal-experience-wildfire-increases-engagement-disaster-preparedness-osu-study-finds">
 Personal experience with wildfire increases engagement in disaster preparedness ↗
 </a>
@@ -144,7 +144,15 @@ Personal experience with wildfire increases engagement in disaster preparedness,
 </div>
 
 <div class="media-more">
-Additional coverage appeared in KTVZ, Highway 58 Herald, Columbia Gorge News, Curry Coastal Pilot, McKenzie River Reflections, Mirage News, and The News Guard.
+Additional coverage appeared in
+<a href="https://ktvz.com/news/oregon-northwest/2023/07/10/osu-study-personal-experience-with-wildfire-boosts-engagement-in-disaster-preparedness/">KTVZ</a>,
+<a href="https://highway58herald.org/personal-experience-with-wildfire-increases-engagement-in-disaster-preparedness-osu-study-finds/">Highway 58 Herald</a>,
+<a href="https://www.columbiagorgenews.com/gorge-life/personal-experience-with-wildfire-increases-engagement-in-disaster-preparedness-osu-study-finds/article_c1a99a8e-2b1e-11ee-bb6d-5b0adb2c471b.html">Columbia Gorge News</a>,
+<a href="https://www.currypilot.com/news/wildfires-personal-experience-increases-engagement-in-disaster-preparedness/article_a0d82dce-1f44-11ee-93a6-df87c5182b7f.html">Curry Coastal Pilot</a>,
+<a href="https://www.mckenzieriverreflectionsnewspaper.com/story/2023/07/20/news/personalexperiencewithwildfireincreases-engagementindisasterpreparedness/5866.html">McKenzie River Reflections</a>,
+<a href="https://www.miragenews.com/osu-study-personal-experience-with-wildfire-1043993/">Mirage News</a>,
+and
+<a href="https://www.thenewsguard.com/news/wildfires-personal-experience-increases-engagement-in-disaster-preparedness/article_7d7fa292-1f46-11ee-95fd-7352c9f62640.html">The News Guard</a>.
 </div>
 
 </div>
