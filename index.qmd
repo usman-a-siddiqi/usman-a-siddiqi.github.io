@@ -290,6 +290,6 @@ and
 
 ::: {.contact-strip}
 <strong>Interested in collaboration?</strong>
-<span>I welcome conversations about energy transitions, public acceptance, climate behaviour and environmental policy.</span>
+<span>I’m always happy to connect about research in policy studies and political psychology, particularly around energy transitions, climate behaviour, and energy and environmental policy, as well as a range of methodological approaches, including surveys, experiments, conjoint designs, and deliberative workshops.</span>
 <a href="mailto:muas21@bath.ac.uk">muas21@bath.ac.uk</a>
 :::
