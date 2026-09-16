@@ -44,13 +44,11 @@ My emerging research examines how evidence, institutions and public and communit
 :::
 :::
 
-## Ocean-REFuel {#ocean-refuel}
+## Ocean-REFuel <span class="project-date">2024–present</span> {#ocean-refuel}
 
 **University of Bath · EPSRC-funded interdisciplinary programme**
 
-Ocean-REFuel investigates the potential to convert ocean renewable energy into liquid and gaseous zero-carbon fuels, including hydrogen and ammonia. Within this broader programme, my work focuses on the **social and behavioural dimensions of future energy systems**: public attitudes, acceptance, perceived risks and benefits, policy rationales, and the ways communities evaluate proposed energy developments.
-
-The project brings together researchers across engineering, psychology, policy and economics, with the University of Strathclyde as lead institution and collaborators including Bath, Cardiff, Imperial College London, Nottingham and Newcastle.
+Ocean-REFuel investigates the potential to convert ocean renewable energy into liquid and gaseous zero-carbon fuels, including hydrogen and ammonia, and brings together researchers in engineering, economics, psychology and policy studies from several UK universities. Within this broader programme, my work focuses on the **social, psychological and policy dimensions of future energy systems**: public attitudes and acceptance, perceived risks and benefits, policy rationales, and the ways people and communities evaluate proposed energy developments. This work draws on **nationwide survey experiments** and **deliberative workshops** to examine both national public responses and place-based transition processes.
 
 [Ocean-REFuel project website](https://www.oceanrefuel.ac.uk/) · [University of Bath project page](https://researchportal.bath.ac.uk/en/projects/ocean-refuel-ocean-renewable-energy-fuels-2/)
 

@@ -769,3 +769,12 @@ footer.footer {
   margin-left: .3em;
   white-space: nowrap;
 }
+
+
+.project-date {
+  float: right;
+  color: #006b5f;
+  font-size: 0.65em;
+  font-weight: 600;
+  white-space: nowrap;
+}
