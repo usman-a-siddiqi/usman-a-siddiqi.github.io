@@ -147,8 +147,8 @@ Randomised controlled trials · instrumental variables · regression discontinui
 :::
 :::
 
-<div class="skill-strip"><strong>Software:</strong> Stata · SPSS · AMOS · Excel · R · Python · NVivo</div>
+<div class="skill-strip"><strong>Software:</strong> Advanced proficiency in Stata, SPSS and AMOS; working knowledge of R, Python and NVivo.</div>
 
 ## Earlier research
 
-Before specialising in environmental and energy policy, my research addressed a broader range of questions in political science and public policy, including political trust, governance, policing, representation, political development and international affairs, with much of this work focused on Pakistan.
+Before specialising in environmental and energy policy, my research examined a broader range of questions in political science, public policy and social policy, including political trust and governance, policing, women’s political representation, extremism and violence, political development, and international affairs, with much of this work focused on Pakistan.
