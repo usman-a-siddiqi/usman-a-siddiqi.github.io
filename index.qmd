@@ -20,7 +20,7 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 <div class="hero-actions">
 <a class="btn-academic" href="research.html">Explore research</a>
 <a class="btn-academic-outline" href="publications.html">Publications</a>
-<a class="btn-academic-outline" href="files/Muhammad-Usman-Amin-Siddiqi-CV.pdf">Download CV</a>
+<a class="btn-academic-outline" href="teaching.html">Teaching</a>
 </div>
 
 <div class="profile-links" aria-label="Academic profiles">
