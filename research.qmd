@@ -1,10 +1,12 @@
 ---
 title: "Research"
-subtitle: "Public attitudes, behaviour and policy in climate and energy transitions"
-description: "Research themes, projects and methods: public acceptance of emerging energy technologies, climate risk and behaviour, and environmental policy preferences."
+subtitle: "Public opinion, behaviour and policy in climate and energy challenges"
+description: "Research on public opinion, political psychology, energy transitions, climate risk, fairness, policy processes and place-based decision-making."
 ---
 
-My research sits at the intersection of **energy and environmental policy, public opinion, behavioural science and environmental psychology**. Across projects, I examine how people interpret policy problems, evaluate technologies and trade-offs, respond to environmental risks, and form preferences about collective responses.
+My research brings together **public policy, political psychology, behavioural science and environmental social science** to understand how people and communities respond to climate and energy challenges. Across this work, I examine both what people want governments and institutions to do—through public opinion, policy preferences and technology acceptance—and what people themselves do, or are willing to do, through mitigation, adaptation, preparedness and other behavioural responses.
+
+I am also developing a complementary strand of research on how public and community priorities can inform evidence generation, policy design and decision-making, particularly where climate and energy transitions create uneven costs, benefits and opportunities across places and groups.
 
 ## Research themes
 
@@ -12,25 +14,33 @@ My research sits at the intersection of **energy and environmental policy, publi
 ::: {.research-card}
 <div class="card-icon">A</div>
 
-### Public acceptance of emerging energy technologies
+### Public Opinion, Political Psychology & Environmental Policy
 
-I study how people evaluate low-carbon technologies and infrastructure, with particular attention to hydrogen, ammonia, offshore renewable energy, perceived risks and benefits, and the conditions under which public support changes.
+I examine how people form opinions and preferences about environmental, climate and energy policy. This research focuses on how values, political and social identities, beliefs, knowledge, information, social norms and issue priorities shape public attitudes, policy preferences and behavioural responses.
 :::
 
 ::: {.research-card}
 <div class="card-icon">B</div>
 
-### Climate risk, extreme weather & behaviour
+### Energy Transitions, Public Acceptance & Fairness
 
-This work examines how direct experience, perceived harm, information seeking and social interaction shape preparedness, community helping, climate action and support for mitigation and adaptation policies.
+I study how people and communities evaluate low-carbon technologies, infrastructure and energy developments. My work examines how perceived risks and benefits, project attributes, narratives and policy rationales shape public acceptance and support, as well as how people evaluate community benefits, trade-offs and the distribution of costs and benefits.
 :::
 
 ::: {.research-card}
 <div class="card-icon">C</div>
 
-### Energy policy, knowledge & social identity
+### Climate Risk, Extreme Weather & Resilience
 
-A third strand investigates the relationship between public knowledge, values, political and social identities, and preferences for energy, water and resource-management policies.
+I investigate how people understand and respond to environmental hazards and extreme weather. This research examines how lived experience, perceived harm, prior beliefs, political orientations, information and social norms shape preparedness, community helping, climate action and support for mitigation and adaptation policies.
+:::
+
+::: {.research-card}
+<div class="card-icon">D</div>
+
+### Policy Processes, Evidence & Place-Based Transitions
+
+My emerging research examines how evidence, institutions and public and community priorities shape climate and energy decision-making. I am particularly interested in what evidence decision-makers and communities need, how local priorities and fairness concerns can inform policy appraisal, and when locally grounded evidence changes assessments of costs, benefits and distributional impacts.
 :::
 :::
 
