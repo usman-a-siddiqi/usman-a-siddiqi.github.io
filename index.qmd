@@ -64,6 +64,14 @@ How extreme weather, perceived harm, information and social interaction shape pr
 
 How knowledge, values, political and social identities, and perceived costs and benefits influence policy preferences.
 :::
+
+::: {.research-card}
+<div class="card-icon">03</div>
+
+### Public opinion & environmental policy
+
+How knowledge, values, political and social identities, and perceived costs and benefits influence policy preferences.
+:::
 :::
 
 ::: {.band}
