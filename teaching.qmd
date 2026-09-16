@@ -1,10 +1,10 @@
 ---
 title: "Teaching & Mentoring"
 subtitle: "University teaching, research supervision and academic service"
-description: "Teaching and mentoring experience of Muhammad Usman Amin Siddiqi across public policy, political science and research methods in the United States and Pakistan."
+description: ""
 ---
 
-Teaching and mentoring have been a substantial part of my academic career across the United States and Pakistan. My teaching spans **public policy, political science and research methods**, with experience in both campus and online delivery and in supervising undergraduate and postgraduate research.
+Teaching and mentoring have been a central part of my academic career across the United States and Pakistan. I have taught across **public policy**, **political science** and **research methods** in both in-person and online settings, alongside extensive supervision of undergraduate and postgraduate research.
 
 ::: {.stat-grid}
 ::: {.stat}
