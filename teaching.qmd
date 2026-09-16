@@ -13,7 +13,7 @@ Teaching and mentoring have been a central part of my academic career across the
 :::
 ::: {.stat}
 <strong>39 students supervised</strong>
-<span>Undergraduate and postgraduate dissertations</span>
+<span>Undergraduate projects and postgraduate dissertations</span>
 :::
 ::: {.stat}
 <strong>Student societies & mentoring</strong>
