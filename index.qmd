@@ -24,8 +24,8 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 </div>
 
 <div class="profile-links" aria-label="Academic profiles">
-<a href="https://researchportal.bath.ac.uk/en/persons/muhammad-usman-siddiqi/">University of Bath</a> .
-<a href="https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ">Google Scholar</a> . 
+<a href="https://researchportal.bath.ac.uk/en/persons/muhammad-usman-siddiqi/">University of Bath</a> | 
+<a href="https://scholar.google.com/citations?hl=en&user=nRKBXkgAAAAJ">Google Scholar</a> | 
 <a href="https://orcid.org/0000-0003-0168-3029">ORCID</a>
 </div>
 :::
