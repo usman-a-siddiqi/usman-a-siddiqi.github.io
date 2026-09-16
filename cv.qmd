@@ -40,6 +40,7 @@ description: "Academic appointments, education, awards, editorial service, acade
 </div>
 ```
 
+
 ## Current appointments
 
 ::: {.timeline}
