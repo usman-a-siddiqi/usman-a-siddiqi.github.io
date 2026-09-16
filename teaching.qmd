@@ -1,31 +1,41 @@
 ---
 title: "Teaching & Mentoring"
-subtitle: "University teaching, research supervision and academic service"
-description: ""
+subtitle: "University teaching, research supervision and student development"
+description: "Teaching and mentoring experience across political science, public policy and research methods, including university teaching, research supervision and co-curricular student development."
 ---
 
-Teaching and mentoring have been a central part of my academic career across the United States and Pakistan. I have taught across **public policy**, **political science** and **research methods** in both in-person and online settings, alongside extensive supervision of undergraduate and postgraduate research.
+Teaching and mentoring have been a central part of my academic career across the United States and Pakistan. I have taught undergraduate and postgraduate courses across **political science**, **public policy** and **research methods** in both in-person and online settings. Alongside classroom teaching, I have supervised undergraduate and postgraduate research and supported student development through research colloquia, student societies and academic mentoring.
 
 ::: {.stat-grid}
 ::: {.stat}
 <strong>67 sections taught</strong>
 <span>Across 23 courses in the United States and Pakistan</span>
 :::
+
 ::: {.stat}
 <strong>39 students supervised</strong>
-<span>Undergraduate projects and postgraduate dissertations</span>
+<span>Postgraduate dissertations & undergraduate research projects</span>
 :::
+
 ::: {.stat}
 <strong>Student societies & mentoring</strong>
 <span>Parliamentary Society · Political Science Society · Research Colloquium</span>
 :::
 :::
 
+## Teaching approach
+
+My teaching is **student-centred and research-led**. I aim to create an environment in which students actively engage with ideas rather than simply receive information. I use case studies, group work, presentations, debates, role-playing exercises and real-world examples to encourage students to question assumptions, consider different perspectives and apply theoretical concepts to substantive political and policy problems.
+
+I particularly enjoy teaching **research methods**. Rather than presenting methods as a set of technical procedures, I focus on the intuition behind research design and analytical choices: what kinds of questions different approaches can answer, what assumptions they require, and how evidence can be used to evaluate competing explanations. I bring this emphasis on research design and evidence into my substantive teaching as well.
+
+I also see teaching as a collaborative process. I encourage students to contribute their own perspectives and experiences, and use student feedback to reflect on and improve course activities and assessment. My experience teaching across different institutional, cultural and national settings has made me particularly attentive to varied disciplinary backgrounds, learning needs and ways of engaging with academic material.
+
 ## Oregon State University
 
 **Instructor, School of Public Policy · 2017–2023**
 
-I taught **22 sections across 8 distinct courses over 21 terms**, through both on-campus and Ecampus delivery, with approximately **600 course enrolments**.
+I taught **22 sections across 8 distinct courses over 21 academic terms**, through both on-campus and Ecampus delivery, with approximately **600 student enrolments**. Student evaluations were consistently strong, averaging **above 5.5 on a 6-point scale**.
 
 ::: {.course-grid}
 <div class="course-chip"><strong>Public Administration</strong><span>PS 372</span></div>
@@ -40,9 +50,9 @@ I taught **22 sections across 8 distinct courses over 21 terms**, through both o
 
 ## GC University Lahore
 
-**Lecturer / Research & Teaching Assistant, Department of Political Science · 2009–2017**
+**Research/Teaching Assistant, 2009–2010 · Lecturer, Department of Political Science, 2010–2017**
 
-I taught **45 sections across 15 courses**, reaching **1,661 students** (1,345 undergraduate and 316 graduate students). Courses included research methods, political-system analysis, comparative constitutions, foreign policy, political science and international relations.
+I taught **45 sections across 15 undergraduate and postgraduate courses**, involving **1,661 student enrolments** (1,345 undergraduate and 316 postgraduate). My teaching covered research methods, political-system analysis, comparative political institutions and constitutions, foreign policy, political science, international relations and Pakistani politics, delivered through both lecture and seminar formats.
 
 ::: {.course-grid}
 <div class="course-chip"><strong>Methods of Research</strong><span>MA</span></div>
@@ -53,31 +63,37 @@ I taught **45 sections across 15 courses**, reaching **1,661 students** (1,345 u
 <div class="course-chip"><strong>Introduction to Political Science</strong><span>BA</span></div>
 :::
 
+I also contributed to postgraduate research training through international summer schools developed with colleagues from the **Centre for Development Research (ZEF), University of Bonn**, focusing on research methods, vulnerability and the impacts of flooding in rural Punjab.
+
 ## Research supervision
 
-I supervised **6 MPhil, 8 MA and 15 BA (Hons) research projects involving 39 students**. My mentoring has focused on developing research questions, designing feasible projects, selecting appropriate methods, interpreting evidence and communicating findings clearly.
+I supervised **6 MPhil, 8 MA and 15 BA (Hons) research projects involving 39 students**. My supervision has focused on helping students move from broad areas of interest to clearly defined research questions, design feasible studies, select appropriate methods, interpret evidence and communicate their findings clearly.
 
 ::: {.mentoring-grid}
 ::: {.info-card}
 ### MPhil
-**6 dissertations** supervised, including projects completed between 2013 and 2017.
+**6 dissertations** supervised
 :::
+
 ::: {.info-card}
 ### MA
-**8 research projects** involving 15 students.
+**8 research projects** involving 15 students
 :::
+
 ::: {.info-card}
 ### BA (Hons)
-**15 research projects** involving 18 students.
+**15 research projects** involving 18 students
 :::
 :::
 
-## Teaching approach
+## Student mentoring & co-curricular engagement
 
-I aim to help students connect concepts and evidence to real policy and political problems. Across substantive and methods courses, I emphasise **critical reading, transparent reasoning, research design, evidence evaluation and clear communication**. My experience teaching in different institutional and national settings has also made me attentive to varied disciplinary backgrounds and learning needs.
+My involvement with students has extended beyond formal classroom teaching and research supervision. At GC University Lahore, I founded the **Parliamentary Student Society** and served as its Faculty Adviser, and also served as **Co-In-Charge of the Quaid-e-Azam Political Science Society**.
+
+I also established and coordinated a **PhD and MPhil Research Colloquium**, providing postgraduate researchers with a regular forum to present developing work, receive feedback and strengthen their research and communication skills. These activities created additional opportunities for students to develop academic confidence, leadership and engagement beyond the formal curriculum.
 
 ## Academic and editorial service
 
-Alongside teaching, I have contributed to academic publishing, programme development and institutional service. Current and recent roles include **Reviewing Editor, Springer Nature (2026–present)**, **Member of the Editorial Advisory Board, Himalayan Politics (2024–present)** and **Founding Member, Academic Forum, UK Ammonia Alliance (2026–present)**.
+Alongside teaching and mentoring, I have contributed to academic publishing, programme development and institutional service. Current and recent roles include **Reviewing Editor, Springer Nature (2026–present)**, **Member of the Editorial Advisory Board, Himalayan Politics (2024–present)** and **Founding Member, Academic Forum, UK Ammonia Alliance (2026–present)**.
 
-Earlier service at GC University Lahore included coordinating the PhD and MPhil Research Colloquium, developing and coordinating evening academic programmes, supporting international research collaboration, supervising administrative staff, and helping organise major conferences.
+Earlier service at GC University Lahore included developing and coordinating academic programmes, coordinating international research collaborations, supporting postgraduate research activities, supervising administrative staff and helping organise major international conferences.
