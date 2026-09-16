@@ -15,7 +15,7 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 
 <div class="hero-affiliation"><strong>Postdoctoral Research Associate</strong>, Department of Psychology, University of Bath<br><strong>Honorary Research Fellow</strong>, Centre for Energy Policy, University of Strathclyde</div>
 
-<div class="hero-copy">I am an interdisciplinary social scientist studying how people understand, evaluate and respond to climate change, energy transitions, environmental risks and emerging energy technologies. My work connects public opinion and behavioural science with questions of policy design, social acceptance and the distribution of costs and benefits.</div>
+<div class="hero-copy">I am an interdisciplinary social scientist studying the social, psychological and political dimensions of climate and energy challenges. My research examines the factors that shape both what people want governments and institutions to do and what people themselves are willing or able to do in response to environmental risks, climate change and energy transitions. I am also increasingly interested in how public priorities and responses intersect with policy design, evidence use, fairness and the distribution of costs and benefits.</div>
 
 <div class="hero-actions">
 <a class="btn-academic" href="research.html">Explore research</a>
@@ -36,9 +36,9 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 
 <div class="section-label">Research focus</div>
 
-## Social dimensions of climate and energy transitions
+## Public opinion, behaviour and policy in climate and energy challenges
 
-<p class="lede">My research asks a practical question: what makes climate and energy transitions not only technically possible, but also publicly acceptable, behaviourally realistic and socially responsive?</p>
+<p class="lede"> My research examines the social, psychological and political dimensions of climate and energy challenges. Across my research, I examine how values, identities, lived experience, social norms, and information shape public opinion, technology acceptance, policy preferences, and mitigation and adaptation behaviours. I also study how public and community priorities can inform what evidence is generated, how it is used, and how fairer, more place-sensitive policy and decision-making can be supported.</p>
 
 ::: {.card-grid}
 ::: {.research-card}
