@@ -131,19 +131,19 @@ My research combines **quantitative, experimental, qualitative and mixed-method 
 ::: {.method-grid}
 ::: {.method-card}
 ### Surveys & experiments
-Survey design and implementation · choice-based conjoint analysis · randomised controlled trials · programme evaluation.
+Survey design and implementation · choice-based conjoint experiments · survey experiments · panel and repeated cross-sectional designs
 :::
 ::: {.method-card}
 ### Statistical modelling
-Structural equation modelling · path analysis · cluster and factor analysis · OLS, logistic, ordinal and multinomial regression · fixed-, random- and mixed-effects models.
-:::
-::: {.method-card}
-### Quasi-experimental methods
-Instrumental variables · regression discontinuity · difference-in-differences.
+Structural equation modelling · conjoint analysis . path analysis · factor and cluster analysis · regression models · fixed-, random- and mixed-effects models
 :::
 ::: {.method-card}
 ### Qualitative & mixed methods
-Interviews · focus groups · deliberative workshops · ethnographic fieldwork · interpretative phenomenological analysis · discourse analysis · grounded theory · participatory rural appraisal.
+Interviews · focus groups · deliberative workshops · ethnography . participatory approaches · interpretative qualitative methods
+:::
+::: {.method-card}
+### Additional training in causal and programme-evaluation methods
+Randomised controlled trials · instrumental variables · regression discontinuity · difference-in-differences
 :::
 :::
 
