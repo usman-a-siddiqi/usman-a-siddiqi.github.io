@@ -57,12 +57,6 @@ The project brings together researchers across engineering, psychology, policy a
 ## Selected research projects
 
 ::: {.project-grid}
-::: {.project-card}
-<div class="project-meta">2024–present · EPSRC</div>
-### Ocean-REFuel — Ocean Renewable Energy Fuels
-**Role:** Postdoctoral Research Associate
-Public acceptance, attitudes and policy support around hydrogen, ammonia and future energy systems.
-:::
 
 ::: {.project-card}
 <div class="project-meta">2023 · U.S. Department of Energy</div>

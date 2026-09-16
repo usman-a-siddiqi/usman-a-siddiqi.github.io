@@ -60,7 +60,7 @@ Public and community responses to low-carbon technologies, infrastructure, benef
 ::: {.research-card}
 <div class="card-icon">03</div>
 
-### Climate Risk, Extreme Weather, Resilience & Climate Action
+### Climate Risk, Extreme Weather, & Resilience
 
 How environmental experiences and risk perceptions shape preparedness, climate action and adaptation and mitigation support.
 :::
@@ -77,7 +77,7 @@ How evidence, institutions and community priorities inform equitable climate and
 ::: {.band}
 <div class="section-label">Current project</div>
 
-## Ocean-REFuel: public acceptance of future energy systems
+## Ocean-REFuel: public responses to future energy systems
 
 At the University of Bath, I contribute to **Ocean-REFuel**, an EPSRC-funded interdisciplinary programme examining the conversion of ocean renewable energy into zero-carbon hydrogen and ammonia fuels. My work focuses on public attitudes, acceptance, policy support and the social dimensions of emerging energy systems.
 
@@ -297,6 +297,6 @@ and
 
 ::: {.contact-strip}
 <strong>Interested in collaboration?</strong>
-<span>I’m always happy to connect about research at the intersection of policy studies and political psychology, especially around energy transitions, public acceptance, climate behaviour, and energy and environmental policy, drawing on methods ranging from survey experiments, conjoint designs, structural equation modelling, and other quantitative approaches to deliberative workshops, participatory qualitative approaches, and mixed-methods research.</span>
+<span>I welcome conversations about research on public opinion, political psychology and policy in climate and energy transitions, particularly around public acceptance, climate behaviour, fairness and place-based transitions. My work draws on survey experiments, conjoint analysis, statistical modelling and mixed-method approaches.</span>
 <a href="mailto:muas21@bath.ac.uk">muas21@bath.ac.uk</a>
 :::
