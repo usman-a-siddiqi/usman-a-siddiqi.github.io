@@ -29,7 +29,6 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 <a href="https://orcid.org/0000-0003-0168-3029">ORCID</a>
 </div>
 :::
-
 ::: {.hero-visual}
 <img src="assets/Profile_Pic.jpg" class="profile-photo" alt="Portrait of Muhammad Usman Amin Siddiqi">
 :::
