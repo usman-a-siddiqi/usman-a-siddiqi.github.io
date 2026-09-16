@@ -8,16 +8,16 @@ Teaching and mentoring have been a central part of my academic career across the
 
 ::: {.stat-grid}
 ::: {.stat}
-<strong>67 sections</strong>
-<span>Taught across 2009–2023</span>
+<strong>67 sections taught</strong>
+<span>Across 23 courses in the United States and Pakistan</span>
 :::
 ::: {.stat}
-<strong>23 course offerings</strong>
-<span>8 at Oregon State + 15 at GC University</span>
+<strong>39 students supervised</strong>
+<span>Undergraduate and postgraduate dissertations</span>
 :::
 ::: {.stat}
-<strong>39 students</strong>
-<span>Research supervision across 29 projects</span>
+<strong>Student societies & mentoring</strong>
+<span>Parliamentary Society · Political Science Society · Research Colloquium</span>
 :::
 :::
 
