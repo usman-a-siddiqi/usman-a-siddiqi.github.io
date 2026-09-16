@@ -44,33 +44,33 @@ description: "Muhammad Usman Amin Siddiqi is an interdisciplinary social scienti
 ::: {.research-card}
 <div class="card-icon">01</div>
 
-### Energy transitions & public acceptance
+### Public Opinion, Political Psychology & Environmental Policy
 
-Public perceptions of hydrogen, ammonia, offshore renewable energy and the infrastructure needed for low-carbon energy systems.
+Values, identities, lived experiences, information and issue priorities shaping public attitudes, behaviour and policy preferences.
 :::
 
 ::: {.research-card}
 <div class="card-icon">02</div>
 
-### Climate risk & behaviour
+### Energy Transitions, Public Acceptance & Fairness
 
-How extreme weather, perceived harm, information and social interaction shape preparedness, climate action and policy support.
+Public and community responses to low-carbon technologies, infrastructure, benefits, trade-offs and distributive fairness.
 :::
 
 ::: {.research-card}
 <div class="card-icon">03</div>
 
-### Public opinion & environmental policy
+### Climate Risk, Extreme Weather, Resilience & Climate Action
 
-How knowledge, values, political and social identities, and perceived costs and benefits influence policy preferences.
+How environmental experiences and risk perceptions shape preparedness, climate action and adaptation and mitigation support.
 :::
 
 ::: {.research-card}
-<div class="card-icon">03</div>
+<div class="card-icon">04</div>
 
-### Public opinion & environmental policy
+### Policy Processes, Evidence & Place-Based Transitions
 
-How knowledge, values, political and social identities, and perceived costs and benefits influence policy preferences.
+How evidence, institutions and community priorities inform equitable climate and energy decision-making across places.
 :::
 :::
 
