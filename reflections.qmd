@@ -1,0 +1,72 @@
+---
+title: "reflections.qmd"
+output: html_document
+date: "2026-09-21"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+---
+title: "Reflections"
+subtitle: "Essays on place, belonging, identity, and the experiences that shape how we see the world"
+description: "Personal essays and reflections by Muhammad Usman Amin Siddiqi."
+toc: false
+---
+
+<div class="lede">
+Writing beyond academic research — reflections on places, people, belonging,
+and the experiences that have shaped how I understand the world.
+</div>
+
+## Essays
+
+::: {.project-grid}
+
+::: {.project-card}
+
+<div class="project-meta">Ravi · GC University Lahore</div>
+
+### Corvallis: The America That Was – and the One I Carried Home
+
+A reflection on what it means to move from effortless belonging to being an
+outsider — and on the friends, mentors, and strangers whose kindness can make
+an unfamiliar place feel less unfamiliar.
+
+[Read essay →](reflections/corvallis.qmd)
+
+:::
+
+::: {.project-card}
+
+<div class="project-meta">Reflections</div>
+
+### More essays coming soon
+
+Personal writing on place, identity, academia, public life, and the encounters
+that quietly change how we understand ourselves and others.
+
+:::
+
+:::
