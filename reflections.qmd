@@ -1,13 +1,12 @@
 ---
 title: "Reflections"
-subtitle: "Essays on place, belonging, identity, and the experiences that shape how we see the world"
-description: "Personal essays and reflections by Muhammad Usman Amin Siddiqi."
+subtitle: "Essays and reflections"
+description: ""
 toc: false
 ---
 
 <div class="lede">
-Writing beyond academic research — reflections on places, people, belonging,
-and the experiences that have shaped how I understand the world.
+Writing beyond academic research: reflections and experiences that have shaped how I understand the world.
 </div>
 
 ## Essays
