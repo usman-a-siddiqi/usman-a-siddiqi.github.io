@@ -3,9 +3,115 @@ title: "Corvallis: The America That Was – and the One I Carried Home"
 author: "Muhammad Usman Amin Siddiqi"
 description: "A personal reflection on belonging, identity, vulnerability, kindness, and the lessons carried home from Corvallis, Oregon."
 toc: false 
+page-layout: article
 ---
 
-<div class="project-meta">Ravi · GC University Lahore</div>
+<style>
+
+/* ---------- Long-form essay page ---------- */
+
+.essay-kicker {
+  text-align: center;
+  margin-top: -0.35rem;
+  margin-bottom: 2.75rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.62;
+}
+
+.essay-body {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 1.06rem;
+  line-height: 1.82;
+}
+
+.essay-body p {
+  margin-bottom: 1.35rem;
+}
+
+.essay-body p:has(+ p) {
+  text-wrap: pretty;
+}
+
+.essay-break {
+  width: 44px;
+  height: 1px;
+  margin: 3.2rem auto;
+  background: currentColor;
+  opacity: 0.22;
+}
+
+.essay-pullquote {
+  margin: 2.3rem auto;
+  padding: 1.2rem 1.5rem;
+  max-width: 650px;
+  text-align: center;
+  font-size: 1.16rem;
+  line-height: 1.65;
+  border-top: 1px solid rgba(127,127,127,.35);
+  border-bottom: 1px solid rgba(127,127,127,.35);
+}
+
+.essay-pullquote p,
+.essay-emphasis p,
+.essay-closing p {
+  margin: 0;
+}
+
+.essay-emphasis {
+  margin: 2.3rem 0;
+  text-align: center;
+  font-size: 1.14rem;
+  font-weight: 600;
+}
+
+.essay-closing {
+  margin-top: 2.7rem;
+  padding-left: 1.25rem;
+  border-left: 3px solid rgba(127,127,127,.35);
+  font-style: italic;
+}
+
+.author-note {
+  max-width: 760px;
+  margin: 3.25rem auto 0;
+  padding-top: 1.4rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.author-note h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+
+@media (max-width: 768px) {
+  .essay-body,
+  .author-note {
+    max-width: 100%;
+  }
+
+  .essay-body {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .essay-pullquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
+
+</style>
+
+
+<div class="project-meta essay-kicker">Ravi · GC University Lahore</div>
+
+<div class="essay-body">
 
 Growing up in a Punjabi Sunni Muslim family in Lahore, I never questioned my
 place in society.
@@ -63,12 +169,18 @@ It was neighbours checking in, strangers passing by saying, “Hey man, awesome 
 
 This isn’t a motivational tale about hard work conquering adversity. It’s about something far less individual and far more human: that even the strongest among us need others. I made it through because people showed up, extended grace, and made room for me when I needed it most.
 
+<div class="essay-break" aria-hidden="true"></div>
+
 I will never forget the Friday after the Christchurch mosque shootings in New Zealand. Though nearly 7,500 miles away and many hours ahead of us, the weight of that tragedy reached us in Corvallis. As I walked to the local mosque for Friday prayers that afternoon, I carried with me a strange feeling. It wasn’t fear exactly, but a quiet unease I couldn’t shake.
 And then, I saw them.
 
 Lining the walkway to the mosque were members of the local Corvallis community. Not Muslims, not fellow worshippers, but neighbours. Ordinary people holding flowers. They were not there to convert or intervene, only to stand with us. To look us in the eyes and say, without words: 
 
+<div class="essay-pullquote">
+
 You are safe. We see you. We are with you.
+
+</div>
 
 It was surprising how much it means to simply feel safe, to be seen as you are. I couldn’t stop the tears as I thought of those who had rarely, if ever, known that feeling, even in places they called home. I thought of communities back home where tragedy did not bring people together, where flowers were replaced by mobs and fires, and solidarity by silence from those who should speak and fear among those who could not.
 
@@ -80,6 +192,8 @@ Being an outsider gave me something invaluable: perspective.
 
 Now, I hear the voices I once dismissed as overreacting differently. What once seemed exaggerated to me now reveals truths I had been too sheltered to see. I have learned to listen with greater humility and to stand in solidarity with those pushed to the margins for any reason, whether because of race, religion, gender, class, disability, or identity.
 The America I carried home isn’t the one in headlines, but the one I found in Corvallis, where simple acts of kindness became my lifelines far from home. As the nation pulls away from this welcoming spirit, I hold onto this experience as both a memory and a quiet hope.
+
+<div class="essay-break" aria-hidden="true"></div>
 
 When I was invited to write for Ravi, I chose to take readers to Corvallis before eventually returning to GC University, Lahore, another place very close to my heart. 
 
@@ -96,13 +210,24 @@ For students who enjoy the privilege of easy belonging, it means pausing to noti
 For administrators, this means designing policies, from financial aid to hostel accommodation, that ease rather than add to the burdens of difference and displacement.
 
 We may not be able to erase every injustice, but we can offer one another a quiet certainty: that we are seen, that someone will stand beside us, and that, if only for a moment, we do not have to carry our burdens alone.
+<div class="essay-emphasis">
+
 Inclusion is not charity. It is justice.
+
+</div>
+
+<div class="essay-closing">
 
 Prof. Steel once shared something his own mentor had told him: “The kindness you receive isn’t meant to stop with you. Pass it on.”
 
+</div>
 
+
+</div>
 
 ---
+
+<div class="author-note">
 
 ### About the author
 
@@ -110,4 +235,6 @@ The author is an Old Ravian whose ties to GC University Lahore span around two
 decades, first as a student and later as a member of the faculty. This essay
 reflects on his years as a PhD scholar at Oregon State University in Corvallis,
 Oregon, USA, and is written in gratitude to the friends, mentors, and strangers
-from both sides of that journey who helped him find his place. 
+from both sides of that journey who helped him find his place.
+
+</div>
