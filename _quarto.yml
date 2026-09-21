@@ -31,8 +31,10 @@ website:
         href: teaching.qmd
       - text: Talks
         href: talks.qmd
-      - text: CV
+      - text: Service
         href: cv.qmd
+      - text: Reflections
+        href: reflections.qmd
 
     right:
       - icon: mortarboard
