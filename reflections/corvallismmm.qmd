@@ -2,7 +2,7 @@
 title: "Corvallis: The America That Was – and the One I Carried Home"
 author: "Muhammad Usman Amin Siddiqi"
 description: "A personal reflection on belonging, identity, vulnerability, kindness, and the lessons carried home from Corvallis, Oregon."
-toc: false
+toc: false 
 ---
 
 <div class="project-meta">Ravi · GC University Lahore</div>
