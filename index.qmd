@@ -300,3 +300,5 @@ and
 <span>I welcome conversations about research on public opinion, political psychology and policy in climate and energy transitions, particularly around public acceptance, climate behaviour, fairness and place-based transitions. My work draws on survey experiments, conjoint analysis, statistical modelling and mixed-method approaches.</span>
 <a href="mailto:muas21@bath.ac.uk">muas21@bath.ac.uk</a>
 :::
+
+[Download my CV](files/CV.pdf)
