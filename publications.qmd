@@ -9,7 +9,25 @@ Use **About the paper** for a short, plain-language overview and **Read article*
 ## 2026
 
 ::: {.pub-list}
+::: {.pub-card}
+<div class="pub-meta">2026 · <em>Nature Communications</em> · Accepted in principle</div>
+<div class="pub-title">Attribute priorities shape public support for hydrogen and ammonia energy projects</div>
+<div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Poortinga, W., Demski, C.</div>
+<div class="pub-actions">
+<details class="paper-details"><summary>About the paper</summary><div class="paper-summary">The paper is organised around two central questions: Which characteristics of hydrogen and ammonia energy projects shape public support, and how do preferences differ depending on which project attributes people prioritise? 
 
+As policy commitments around hydrogen move from strategy to delivery, and proposed projects become increasingly visible to communities, understanding public support requires looking beyond general attitudes towards these technologies to examine how people evaluate different project characteristics and the importance they attach to them.
+
+Using a UK nationwide survey of 1,511 respondents, we conducted a choice-based conjoint experiment in which people chose between hypothetical hydrogen and ammonia projects that varied across eight attributes, including energy source, ownership, proximity, environmental impacts, community benefits, energy distribution, and community engagement. This allowed us to examine how people weigh different project characteristics and make trade-offs when evaluating alternative projects.
+
+We find that all eight attributes shape public support. Respondents generally preferred hydrogen over ammonia, renewable energy sources over fossil fuels, community or public ownership over private development, and projects with effective environmental mitigation measures. They also favoured reductions in household energy bills, energy used locally or elsewhere in the UK rather than exported, and meaningful community involvement in decision-making. The energy source used for production had the strongest average influence on support.
+
+But the central finding goes beyond these overall preferences. People who identified a particular project attribute as their top priority responded much more strongly to changes in that attribute than those who did not prioritise it, while their responses to other attributes remained broadly similar. For example, giving communities a strong say in project decisions increased support by around 48 percentage points among those who prioritised engagement, compared with around 10 percentage points among other respondents. This means that average estimates of public preferences can conceal substantial differences in how particular groups evaluate projects.
+
+The broader message is that public support for new energy infrastructure cannot be understood through overall acceptance levels or average preferences alone. People may share broadly similar views about which project characteristics are desirable, yet differ considerably in how much importance they attach to each. Building public support therefore requires more than identifying the most popular project designs. It also means recognising that different publics have different priorities, and ensuring that project development and decision-making are responsive to those priorities.</div></details>
+<a class="pub-btn" href="">Coming Soon ↗</a>
+</div>
+:::
 ::: {.pub-card}
 <div class="pub-title">Seeing is believing or believing is seeing: divergent pathways to climate action and policy support following extreme weather events</div>
 <div class="pub-meta"><span class="my-name">Siddiqi, M. U. A.</span>, Giordono, L., Peterson, H. L., Zanocco, C., Stelmach, G., Flora, J., & Boudet, H. · <em>npj Climate Action</em>, 5, Article 72 · <span class="oa-badge">Open access</span></div>
