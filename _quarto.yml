@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - files/Siddiqi_Ravi_2026.pdf
 
 website:
   title: "Muhammad Usman Amin Siddiqi"
