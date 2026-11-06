@@ -22,11 +22,15 @@ Writing beyond academic research: reflections and experiences that have shaped h
 A reflection on what it means to move from effortless belonging to being an
 outsider — and on the friends, mentors, and strangers whose kindness can make
 an unfamiliar place feel less unfamiliar.
-
+<p>
 [Read essay →](reflections/corvallis.qmd)
+</p>
+
+<p>
 
 [View published PDF ↗](files/Siddiqi_Ravi_2026.pdf){target="_blank"}
-
+  </a>
+</p>
 :::
 
 ::: {.project-card}
